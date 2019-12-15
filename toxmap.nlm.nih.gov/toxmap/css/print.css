@@ -1,0 +1,30 @@
+/* Hide unwanted stuff at print */
+#skip,
+header h1,
+header h2,
+header h3,
+header p,
+nav,
+#main ul#breadcrumbs,
+#main menu,
+#main aside,
+.box .to-top,
+.content3-2 {
+	display: none;
+}
+
+.subpage #content {
+	width: 881px;
+}
+
+.right-block1 {
+	padding-bottom: 15px;
+}
+
+.box-content {
+	display: block;
+}
+
+.content3-1 {
+	width: auto;
+}

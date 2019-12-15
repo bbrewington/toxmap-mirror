@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Movable Type 4.38" />
+<meta name="author" content="Booz Allen Hamilton, Inc. for the US National Library of Medicine"/>
+<meta name="keywords" content="Toxics Release Inventory, TRI, Superfund, NPL, National Priorities List, environmental health, toxins, chemicals, Benzene, Mercury, Toluene, Chlorine, Lead, Arsenic, Acetone, CERCLIS, toxicology, NIH, NLM"/>
+<meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+<link rel="stylesheet" href="https://toxmap.nlm.nih.gov/toxmap/faq/styles.css" type="text/css" />
+<link rel="start" href="https://toxmap.nlm.nih.gov/toxmap/faq/" title="Home" />
+<script type="text/javascript" src="https://toxmap.nlm.nih.gov/toxmap/faq/mt.js"></script>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/does-toxmap-show-all-sources-of-toxic-chemicals-released-into-or-present-in-the-environment.html">
+<dc:title>Does TOXMAP show all sources of toxic chemicals released into or present in the environment?</dc:title>
+<dc:description>At this time, TOXMAP uses reported on-site releases only. Some TRI chemicals have no reported releases, and so will not appear in the TRI release data or in TOXMAP. Certain industries in the United States that manufacture, process, use, or...</dc:description>
+<dc:creator>TOXMAP Admin</dc:creator>
+<dc:date>2009-08-30T09:00:00-05:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">
+</License>
+</rdf:RDF>
+-->
+
+<!-- Universal Analytics -->
+<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+<!-- DAP -->
+<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+    <link rel="prev bookmark" href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/what-data-sources-does-toxmap-use.html" title="What data sources does TOXMAP use?" />
+    <link rel="next bookmark" href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/there-are-tri-releases-or-superfund-sites-near-my-neighborhood-is-my-health-at-risk.html" title="There are TRI releases or Superfund sites near my neighborhood.  Is my health at risk?" />
+    
+    <title>Does TOXMAP show all sources of toxic chemicals released into or present in the environment? - TOXMAP FAQ</title>
+</head>
+<body id="mt-blog" class="mt-entry-archive layout-tw">
+    <div id="container">
+        <div id="container-inner">
+
+
+            <header class="x">
+<img src="/toxmap/images/header-cdi.jpg" alt="" title="" width="1015" height="117" usemap="#nlmnih_logo">
+</header>
+<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+<map name="nlmnih_logo" id="nlmnih_logo">
+  <area shape="rect" coords="24,14,375,41" href="https://www.hhs.gov/" alt="U.S. Department of Health and Human Services" />
+  <area shape="rect" coords="842,14,995,41" href="https://www.hhs.gov/" alt="U.S. Department of Health and Human Services" />
+  <area shape="rect" coords="24,59,220,100" href="https://www.nlm.nih.gov/" alt="U.S. National Library of Medicine" />
+  <area shape="rect" coords="221,59,470,100" href="/toxmap/" alt="TOXMAP" />
+</map>
+<nav>
+  <ul>
+    <li class="first"><a href="/toxmap/">Home</a></li>
+    <li><a href="/toxmap/about.html">About</a></li>
+    <li><a href="/toxmap/news/">News</a></li>
+    <li><a href="/toxmap/faq.html">FAQ</a></li>
+    <li><a href="/toxmap/glossary.html">Glossary</a></li>
+    <li><a href="/toxmap/help.html">Help</a></li>
+  </ul>
+<a href="https://sis.nlm.nih.gov/enviro.html" id="last">NLM Environmental Health Portal</a>
+</nav>
+<div id="header">
+    <div id="header-inner">
+        <div id="header-content">
+
+
+<table width="900"><tr> 
+<td>
+&nbsp;
+</td>
+<td align="center">
+     <div id="header-name"><a href="/toxmap/faq/" accesskey="1">TOXMAP FAQ</a></div>
+     <div id="header-description">&nbsp;TOXMAP Frequently Asked Questions (and Answers)</div>
+</td>
+</tr></table>
+
+        </div>
+    </div>
+</div>
+
+
+
+            <div id="content">
+                <div id="content-inner">
+
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+
+                            <div id="entry-55" class="entry-asset hentry">
+                                <div class="asset-header">
+                                    <h1 id="page-title" class="asset-name entry-title">Does TOXMAP show all sources of toxic chemicals released into or present in the environment?</h1>
+                                    <div class="asset-meta">
+                                        <span class="byline">
+
+
+
+                                        </span>
+
+
+                                    </div>
+                                </div>
+<a name="skip"></a>
+                                <div class="asset-content entry-content">
+
+                                    <div class="asset-body">
+                                        At this time, TOXMAP uses reported <b>on-site</b> releases only. <b>Some TRI chemicals have no reported releases, and so will not appear in the TRI release data or in TOXMAP.</b></p>
+
+<p>Certain industries in the United States that manufacture, process, use, or transport significant amounts of specific toxic chemicals (approximately 650 chemicals and chemical categories covering about 23,000 industrial and federal facilities) are required by law to report annually on the releases of these chemicals to the EPA (through its <b><a href="/toxmap/glossary.html#TRI">Toxics Release Inventory</a></b> Program). TOXMAP maps on-site releases of the listed chemicals covered by the EPA TRI program.</p>
+
+<p>It should be noted that although facilities are required by federal law to use the best available data for their reporting, the accuracy of the reported data is unknown since it can be based on both actual measurements and on estimates. However, the Toxics Release Inventory is the best public information available on these chemicals.</p>
+
+<p>The EPA <b><a href="/toxmap/glossary.html#Superfund">Superfund Program</a></b> is part of a federal government effort to decontaminate any land in the United States that has been contaminated by hazardous waste and that has been identified by the EPA as a candidate for cleanup because it poses a risk to human health and/or the environment. The program designates more than 800 substances as hazardous, and many more as potentially hazardous to human health or to the environment when improperly treated, stored, transported, disposed of, or otherwise managed.</p>
+
+<p>The toxic chemicals reported in this way make up only a small portion of the total amount manufactured, handled and used in the United States<b>.</b></p>
+
+<p>Industries are not the only entities responsible for toxic chemicals. Since the current reporting requirements apply only to industrial sources, sources of toxic chemicals from transportation, farming and households are not included. In addition, thousands of new chemicals are studied each year and thousands are manufactured. It is not possible to test each chemical regarding possible toxic effects on people, plants or animals.</p>
+                                    </div>
+
+
+                                </div>
+                                <div class="asset-footer">
+
+    
+                                    <div class="entry-categories">
+                                        <h4>Categories<span class="delimiter">:</span></h4>
+                                        <ul>
+                                            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/general-information/" rel="tag">    General Information</a></li>
+                                        </ul>
+                                    </div>
+    
+
+
+                                </div>
+                            </div>
+
+
+                    
+                    
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="beta">
+    <div id="beta-inner">
+
+
+    
+    <div class="widget-archive widget-archive-category widget">
+    <h3 class="widget-header"><a href="/toxmap/faq.html">List of all Questions</a></h3>
+    <h3 class="widget-header">Topics</h3>
+    <div class="widget-content">
+    
+        
+        <ul>
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/general-information/" title="General information about TOXMAP">    General Information (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/toxics-release-inventory-tri/" title="Questions about the EPA Toxics Release Inventory program">   Toxics Release Inventory (TRI) (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/superfund/" title="Questions about the EPA Superfund program">  Superfund (8)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/national-pollutant-release-inventory-npri/" title="Questions about the NPRI program"> National Pollutant Release Inventory (NPRI) (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/clean-air-markets-coal-data/" title="Questions about coal data and the EPA Clean Air Markets program">Clean Air Markets (Coal Data) (4)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/contact-information/" title="TOXMAP contact information">Contact Information (1)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+    </div>
+</div>
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+
+
+                </div>
+            </div>
+
+
+            <footer>
+        <div class="copy-rights">
+            <p><a target="ext" href="https://www.nlm.nih.gov/">US National Library of Medicine&reg;</a>, 8600 Rockville Pike, Bethesda, MD 20894,</p>
+            <p><a target="ext" href="https://www.nih.gov/">National Institutes of Health</a>, <a target="ext" href="https://www.hhs.gov/">Department of Health & Human Services</a></p>
+            <p><a target="ext" href="https://www.nlm.nih.gov/copyright.html">Copyright</a>, <a target="ext" href="https://www.nlm.nih.gov/privacy.html">Privacy</a>, <a target="ext" href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">Freedom of Information Act</a>, <a href="/toxmap/accessibility.html">Accessibility</a></p>
+        </div>
+        <div class="site-info">
+            <p><a href="/toxmap/faq/2009/08/whom-can-i-contact-with-questions-andor-suggestions.html">Contact Us</a>, <a href="/toxmap/metadata.html">Metadata</a></p>
+            <p>Homepage Updated: July, 2018</p>
+            <p><a href="/toxmap/glossary.html#EPA">EPA</a> data: <a href="/toxmap/glossary.html#TRI">TRI</a>- November, 2017; <a href="/toxmap/glossary.html#Superfund">Superfund</a>- November, 2013</p>
+        </div>
+    </footer>
+
+
+
+        </div>
+    </div>
+</body>
+</html>

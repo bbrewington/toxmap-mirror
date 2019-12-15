@@ -1,0 +1,280 @@
+/* reset */
+* { padding: 0; margin: 0; font-family: Verdana, Geneva, sans-serif; font-size: 100%; }
+/* clearing --------------*/
+.x:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; } 
+* html .x { height: 1%; } 
+*:first-child+html .x { min-height: 1px; }
+/* -----------------------*/
+
+/******** Top-level styles ********/
+
+#skip {
+    height: 1px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: -500px;
+    width: 1px;
+}
+body  {
+	font-size: 75%;
+	background: #f4f9fb;
+    line-height: 1.5em;
+}
+h1 {
+	text-align: center;
+	color: #0f5e44;
+	font-size: 1.5em;
+	line-height: 43px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+h2 {
+	font-size: 1.2em;
+	line-height: 30px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+img {
+	border: none;
+}
+header {
+	position: relative;
+	width: 1014px;
+	height: 117px;
+	margin: 0 auto;
+}
+
+/******** Alert banner styles ********/
+
+#alerts {
+	width: 931px;
+	height: 32px;
+	text-align: center;
+	line-height: 32px;
+	padding: 0 36px;
+	margin: 0 auto;
+	background: #ffdc91;
+	position: relative;
+	left: 2px;
+}
+
+#mute-alerts {
+	width: 931px;
+	height: 32px;
+	text-align: center;
+	line-height: 32px;
+	padding: 0 36px;
+	margin: 0 auto;
+	background: #CCCCCC;
+	position: relative;
+	left: 2px;
+}
+
+/******** Nav(igation) styles ********/
+
+nav #last {
+	float: right;
+	padding: 0 0 0 10px;
+	background: url(../images/ico/arrow.png) no-repeat left center;
+}
+nav {
+	background: url(../images/bg/nav-cdi.jpg) repeat-y left top;
+	width: 961px;
+	height: 21px;
+	margin: 0 auto;
+	padding: 0 36px 0 18px;
+}
+nav ul {
+	float: left;
+	list-style: none;
+	width: 695px;
+}
+nav ul li {
+	background: transparent url(../images/bg/nav-divider-cdi.jpg) no-repeat 0 center;
+	padding: 0 15px 0 17px;
+	display: inline;
+}
+nav ul li.first {
+	background: none;
+}
+nav ul li a,
+#last {
+	color: #fff;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+/******** "Standard" (default) page style ********/
+
+#standard-page {
+	background: url(../images/bg/main-cdi.jpg) repeat-y left top;
+	width: 1014px;
+	padding: 0;
+	margin: 0 auto;
+}
+#standard-page #content {
+	margin: 0 50px;
+}
+
+#standard-page  .points li {
+	list-style: square;
+	margin: 0 0 0 15px;
+	color: #222222;
+}
+
+/******** Main (home) page ********/
+
+#main-wrap {
+	width: 1014px;
+	clear: both;
+	padding: 0 0 16px 0;
+	margin: 0 auto 15px auto;
+	background: url(../images/bg/footer-cdi.jpg) no-repeat left bottom;
+}
+#main {
+	background: url(../images/bg/main-cdi.jpg) repeat-y left top;
+	width: 1014px;
+	padding: 0;
+	margin: 0 auto;
+}
+#main #content {
+	float: left;
+	width: 718px;
+	color: #333;
+	margin: 0 17px 0 23px;
+}
+#main #content p {
+	font-size: 1em;
+}
+#main #content small {
+	font-size: 0.8em;
+	display: block;
+	clear: both;
+	padding: 5px 0 10px 0;
+}
+#main #content .box {
+	border: 1px #c0c0c0 solid;
+	border-radius: 5px;
+	padding: 10px;
+	float: left;
+	margin: 0 10px 0 0;
+	background: #f7f7f7;
+}
+#main #content img {
+	float: left;
+	padding-right: 10px;
+}
+
+
+/******** Side column for main (home) page ********/
+
+#main aside {
+	width: 230px;
+	float: left;
+}
+aside #connect  {
+	padding: 10px 0;
+}
+aside #connect h2 {
+	color: #20558a;
+	float: left;
+	font-size: 0.8em;
+	line-height: 1.5em;
+	margin: 8px 8px 0 0;
+}
+#main aside ul.connect {
+	padding: 0;
+	float: left;
+}
+#main aside ul.connect > li {
+	list-style: none;
+	float: left;	
+}
+#main aside ul.connect li a {
+	width: 25px;
+	height: 20px;
+	display: inline-block;
+}
+#main aside ul.connect li li li a {
+	padding: 1px 0 1px 20px;
+	width: auto;
+	height: auto;
+}
+#main aside .connect li a.fb {
+	background: url(../images/ico/ic_fb.png) no-repeat left center;
+}
+#main aside .connect li a.rss {
+	background: url(../images/ico/rss.png) no-repeat left center;
+}
+#main aside .connect li a.mobile {
+	background: url(../images/ico/ic_mob.png) no-repeat left center;
+}
+#main aside .connect li a.twitter {
+	background: url(../images/ico/ic_tw.png) no-repeat left center;
+}
+#main aside .connect li a.bookmark {
+	background: url(../images/ico/bookmark.png) no-repeat left center;
+}
+#main aside ul#bookmarks li {
+	font-size: inherit;
+}
+#main aside h3 {
+	clear: both;
+	line-height: 23px;
+	color: #fff;
+	font-size: 1.3em;
+	padding: 0 10px;
+	background: #6d97c3;
+}
+#main aside .points {
+	padding: 10px 0;
+}
+#main aside .points li {
+	list-style: square;
+	margin: 0 0 0 15px;
+	color: #7f7f7f;
+}
+#main aside .points li a {
+	color: #20558a;
+}
+#main aside a {
+	color: #20558a;
+}
+
+/******** Footer ********/
+
+footer {
+	clear: both;
+	overflow: hidden;
+	width: 943px;
+	margin: 0 auto;
+	font-size: 0.9em;
+	line-height: 1.1em;
+	padding: 0 36px 20px 36px;
+}
+footer a {
+	color: #336699;
+	text-decoration: underline;
+}
+footer a:hover {
+	text-decoration: none;
+}
+footer .copy-rights {
+	float: left;
+	width: 525px;
+}
+footer .site-info {
+	float: left;
+}
+.clear {
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.nomargin {
+	margin: 0 !important;
+}

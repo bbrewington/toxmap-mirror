@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>TOXMAP Help | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="/toxmap/css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/toxmap/css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="/toxmap/css/print.css" />
+	<link rel="shortcut icon" href="/toxmap/images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="/toxmap/js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+
+				<!-- Begin Content -->
+                <h1>TOXMAP Help</h1>
+				<p>
+				<br/>
+				<h2>Quick Tips</h2>
+				<ul class="points">
+<li>TOXMAP lets you explore toxic chemicals released into the environment by certain industries and present in hazardous waste sites. The <a href="/toxmap/glossary.html#EPA">US EPA</a> collects and maintains this data.  See <a href="/toxmap/faq/2009/08/what-data-sources-does-toxmap-use.html">more about additional TOXMAP data</a>.</li>
+<li>Some of the things you can do with TOXMAP:
+<ul class="points"><li>Browse TOXMAP data by turning <a href="/toxmap/glossary.html#Layer">layers</a> on and off via the Table of Contents;</li>
+<li><strong><a href="#Navigation">Navigate</a></strong> the map free-form by hand, or by searching for a particular location;</li>
+<li><strong><a href="#Search">Search</a></strong> for TRI facilities or Superfund sites which release (or contain) specific chemicals and save your search results.</li>
+<li>Use the <strong><a href="#Toolbar">Toolbar</a></strong> to perform a variety of other actions, such as viewing the <a href="/toxmap/glossary.html#Legend">map legend</a> and printing your map.</li>
+<li>View the raw data in table format via the <strong><a href="#Data_table">Data Table</a></strong>.</li>
+<li>See <a href="/toxmap/glossary.html#Demographic_data">demographic data</a> and cancer/disease <a href="/toxmap/glossary.html#NCI_SEER">mortality data</a> color-coded at the county and/or census tract level.</li>
+<li><strong><a href="/toxmap/download.html">Download</a></strong> TOXMAP data</li></ul>
+</li>
+<li>On desktop and laptop computers, TOXMAP works best at higher screen resolutions, with your web browser set to fill the entire screen. TOXMAP is not recommended for very old or slow devices, or while using slow or unreliable Internet connections. In these cases, try <a href="https://toxnet.nlm.nih.gov/newtoxnet/tri.htm">TOXNET/TRI</a> to view and search TRI data.</li>
+<li>For more information, see the TOXMAP <a href="/toxmap/faq.html">FAQ</a> and <a href="/toxmap/glossary.html">Glossary</a>.</li>
+<li>We value your feedback! Please <a href="/toxmap/faq/contact-information/">contact us</a> and tell us what you think of the new TOXMAP.</li>
+</ul>
+<br/>
+<a name="Navigation"></a><h2>Navigation</h2>
+<img src="/toxmap/images/help/upper-left.png" style="text-align: center; float: right; margin: 0 0 20px 20px;" title="Navigation controls" alt="Screenshot of navigation controls in the upper-left area of TOXMAP"/>
+<p>Navigate the map in any of several different ways:
+<ul class="points">
+<li>Left-clicking and dragging the map will pan the map in any direction;</li>
+<li>Scrolling the mouse wheel will zoom the map in and out, anchoring it at the location of the mouse pointer;</li>
+<li>Holding down the Shift key and drawing a rectangle on the map will zoom to the area of this rectangle;</li>
+<li>The plus and minus icons (pictured) zoom the map in and out, respectively;</li>
+<li>The home icon (pictured) zooms the map roughly to the Continental United States;</li>
+<li>The arrow icons (pictured) cycle through your map history-- each time you pan or zoom the map, the location is added to your map history; with the Previous Map and Next Map icons, you can zoom the map to previous locations;</li>
+<li>The Enter Location area searches for a specified location (address, city, state, place, or TRI facility name or ID) and zooms your map there.  It provides suggestions as you type (pictured).  Click on a name to zoom the map to that location, or click the magnifying class to search for that location.  Click the 'X' next to the magnifying glass to clear your search.
+<ul class="points">
+<li>The downward pointing triangle drops down a menu (not pictured) where you can filter your results by geographical location or TRI facility.</li>
+</ul></li>
+<li>The Map Overview can be shown via the tiny arrow in the extreme lower left of the map (not pictured) near the scalebar.  Drag the shaded rectangle in the map overview to pan the map to the selected location.  Close the Map Overview with the arrow, which now faces the opposite direction.</li><br/>
+<a name="Search"></a><h2>Search</h2>
+<p><table><tr><td>The colored icons in the left toolbar each bring up search windows.  From left to right:</td><td><img src="/toxmap/images/help/search-icons.png" height="30" title="Search toolbar icons" alt="The TOXMAP search toolbar icons"/></td></tr></table></p>
+<ul class="points">
+<li><strong>Search TRI chemicals</strong>: search for TRI facilities that reported release of <a href="/toxmap/faq/2009/08/what-tri-chemicals-are-mapped-in-toxmap.html">TRI-listed chemicals</a> <a href="/toxmap/faq/2009/08/how-current-is-the-tri-data-that-toxmap-uses.html">in 2016</a>;</li>
+<li><strong>Search Superfund chemicals</strong>: search for <a href="/toxmap/glossary.html#NPL">Superfund NPL</a> hazardous waste sites that contain the selected contaminant;</li>
+<li><strong>Filter TRI facilities by chemical</strong>: show TRI facilities that reported release of selected chemicals <a href="/toxmap/faq/2009/08/how-current-is-the-tri-data-that-toxmap-uses.html">in 2016</a>-- click on additional chemical names to filter facilities further; and</li>
+<li><strong>Add External Data</strong>: add additional data to your map from third-party sources from Esri's <a href="https://www.arcgis.com/home/index.html">ArcGIS Online</a>, another web resource, or a file located on your computer.</li>
+<li><strong>Start Over</strong>: re-launches TOXMAP, bringing up the splash screen and clearing all searches.  This can also be achieved by refreshing your web browser.
+</li>
+</ul>
+<br/>
+<p>To search TRI or Superfund, first select a chemical name from the scrollable list (or search for one on most desktop browsers via Control-F).  Optionally enter a minimum release amount (TRI only) and limit search results by geography (a regional filter).  Click Search, and search results appear in a scrollable list in the Result Sets tab, and are also displayed as colored circles on your map that can be toggled on and off via the Table of Contents.  Click on the results in the list or circles on the map for details about the facility and its chemicals.  All TRI release amounts are listed in pounds (except for Dioxin which is in grams) and are <a href="/toxmap/faq/2009/08/how-accurate-is-tri-data.html">rounded to six digits</a> after the decimal point. Note the "..." menu in the Search windows where you can perform more actions such as saving your search results, opening them in a table, or changing their map symbol, which is then reflected in the <a href="/toxmap/glossary.html#Legend">map legend</a>.</p><br/>
+<p>To search another chemical, click the Select Chemical tab and return to the chemical list via the arrow to the left of the chemical name.  Then select a new chemical name and perform another search as before.  Each set of search results appears in the dropdown menu in the Result Sets tab; selecting a result set pans and zooms the map to those results, and turns off all other result sets in the Table of Contents and the map.</p>
+<br/>
+<a name="Toolbar"></a><h2>The Toolbar</h2>
+<p><table><tr><td>The Toolbar appears in the upper-right of the screen (pictured right).</td><td><img src="/toxmap/images/help/toolbar.png" height="36" title="The TOXMAP Toolbar" alt="The TOXMAP toolbar"/></td></tr>
+<tr><td>Only one toolbar window is open at a time, and can be closed or minimized with the icons on the right side of the tool's titlebar.  A brief description of each tool (from left to right) follows:</td></tr></table></p>
+<ul class="points">
+<li><strong>Table of Contents (ToC):</strong> TOXMAP <a href="/toxmap/glossary.html#Layer">layers</a> can be toggled on and off via the Table of Contents (ToC).  Click the small triangles to expand the layer hierarchy.  For a layer to appear on the map, all of its parent layers must be checked.  Layers are drawn from the bottom of the ToC to the top; therefore only the topmost checked demographic or mortality layer will appear on the map.  Note the "..." menu with more layer actions.</li>
+<li><strong>Legend:</strong> The map legend tells a map reader the meaning of the symbols used to represent features on the map. Legends consist of examples of the symbols on the map with labels containing explanatory text, and in some cases, value ranges.</li>
+<li><strong>Bookmark:</strong> You can save and name your current map area as a <a href="/toxmap/glossary.html#Bookmarks">bookmark</a> so that you can zoom to it later.  Only the map area is preserved, not the data on the map.</li>
+<li><strong>Basemap Gallery:</strong> You can change your background map (including such things as streets, landforms, and state boundaries) via the <a href="/toxmap/glossary.html#Bookmarks">Basemap</a> Gallery.  These basemaps are provided by Esri, not by the National Library of Medicine.</li>
+<li><strong>Measurement:</strong> The Measurement tool lets you measure areas and multi-line distances that you draw on the map, as well as determine the current location (latitude and longitude) of wherever you click on the map.</li>
+<li><strong>Swipe:</strong> The Swipe tool lets you interactively compare two maps within the same area by revealing a layer underneath the map. As you drag and move the vertical bar between the two sections of the map, the layer you want to swipe is revealed on one side of the map and hidden on the other.</li>
+<li><strong>Print:</strong> Print lets you print your map-- optionally with additional information such as the legend and scale-- to one of a variety of digital formats.  After you select a Layout and Format, click Print, then click on the resulting map title to open the map in the selected format.</li>
+<li><strong>About:</strong> Displays general information about TOXMAP, similar to the <a href="/toxmap/about.html">About TOXMAP</a> page.</li>
+<br/>
+<a name="Data_table"></a><h2>The Data Table</h2>
+<p>The Data Table shows TOXMAP data in a table format that can be viewed, filtered, sorted, and downloaded.  You can bring up the Data Table (pictured below) several ways:</p>
+<ul class="points">
+<li>Via the Open Data Table button/tab in the bottom-middle of the map;</li>
+<li>Via the "..." menu in most layer's popup windows;</li>
+<li>Via the "..." menu in the Search TRI and Search Superfund windows; and</li>
+<li>Via the "..." menu of each data layer in the Table of Contents (but not parent layers).</li>
+</ul><br/>
+<img src="/toxmap/images/help/data-table.png" style="text-align: center; margin: 0 0 20px 20px;" title="The TOXMAP Data Table" alt="Screenshot of the TOXMAP Data Table"/>
+<br/>
+The Data Table is a complex window with many features.  Below are a few tips on how to use it effectively:
+<ul class="points">
+<li>Layers are listed in tabs along the top of the Data Table.  Certain layers appear in the table by default, but others can be added (see bullets above).</li>
+<li>The Options dropdown menu (on the far left, below the tabs) lets you show and hide columns for the current tab, export all data to a comma-separated file, and filter data in a variety of ways.</li>
+<li>The Filter by map area button (next to Options) toggles whether or not the data in the table is constantly updated only to show data that appear in the current viewable map area.  Zooming and panning the map while Filter by map area is toggled "on" for a large dataset can result in sluggish performance.</li>
+<li>Data can be sorted by clicking on the table headers (field names) and selecting Sort ascending or Sort descending.</li>
+<li>You can select features in the table by clicking on the far left area of a given row.  These features will be highlighted in the table and on the map.  Selecting features enables the Zoom to and Clear selection controls above the column headers.</li>
+<li>The Data Table can be closed with the Hide Data Table button/tab in the top-middle of the Data Table.  If Filter by map area is enabled, then the Data Table should be closed when not in use.</li>
+</ul>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>&nbsp;
+				<!-- End Content -->
+
+            </div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>

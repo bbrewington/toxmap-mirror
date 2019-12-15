@@ -1,0 +1,8 @@
+/* This is the StyleCatcher theme addition. Do not remove this block. */
+@import url(https://toxmap.nlm.nih.gov/toxmap/css/blog.css);
+@import url(https://toxmap.nlm.nih.gov/toxmap/css/hills-dusk.css);
+/* end StyleCatcher imports */
+
+
+@import url(https://toxmap.nlm.nih.gov/toxmap/css/toxmap.css);
+@import url(https://toxmap.nlm.nih.gov/toxmap/css/blog-overrides.css);

@@ -1,0 +1,98 @@
+/* Added for TOXMAP 5 */
+
+body {
+}
+
+.layout-tw #content-inner {
+	/*background: url(../images/bg/main-cdi.jpg) repeat-y left top;*/
+	/* background: transparent url(../images/blog/content-tw.gif) repeat-y scroll left top; */
+ }
+
+.asset {
+	background: none;
+}
+
+
+#container-inner {
+	width: 1011px;
+/*	background: url(../images/bg/footer-cdi.jpg) no-repeat left bottom; */
+
+}
+
+a {
+    color: #0000FF; 
+}
+
+nav ul {
+	margin-left: 0px;
+}
+
+#header { 
+    background: #62aee0 url(../images/blog/header.png) no-repeat bottom left; 
+}
+
+#header {
+	margin-left: 8px;
+}
+
+nav a:link
+{
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+footer a:link
+{
+    font-weight: normal;
+}
+
+footer {
+	padding-top: 5px;
+	margin-top: 20px;
+	line-height: 0.6em;
+}
+
+.asset-body a
+{
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.asset-body a:hover {
+    text-decoration: underline;
+}
+
+.asset-name,
+.asset-name a,
+.archive-title {
+    color: #0F5E44;
+}
+
+.layout-wtt #content-inner { background: transparent url(../images/blog/content-wtt.gif) repeat-y scroll right top; }
+.layout-twt #content-inner { background: transparent url(../images/blog/content-twt.gif) repeat-y scroll left top; }
+.layout-wt #content-inner { background: transparent url(../images/blog/content-wt.gif) repeat-y scroll right top; }
+.layout-tw #content-inner { background: transparent url(../images/blog/content-tw.gif) repeat-y scroll left top; }
+
+footer a:link,
+.widget-header a:link,
+.archive-content a:link,
+.widget-content a:link {
+    text-decoration: underline;
+}
+
+footer a:hover,
+.widget-header a:hover,
+.archive-content a:hover,
+.widget-content a:hover {
+    text-decoration: none;
+}
+
+.asset-name a
+{
+	font-family: Georgia,"Times New Roman",Times,serif;
+}
+
+/* END TOXMAP 5 */

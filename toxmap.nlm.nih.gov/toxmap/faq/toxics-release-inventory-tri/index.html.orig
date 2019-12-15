@@ -1,0 +1,457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Movable Type 4.38" />
+<meta name="author" content="Booz Allen Hamilton, Inc. for the US National Library of Medicine"/>
+<meta name="keywords" content="Toxics Release Inventory, TRI, Superfund, NPL, National Priorities List, environmental health, toxins, chemicals, Benzene, Mercury, Toluene, Chlorine, Lead, Arsenic, Acetone, CERCLIS, toxicology, NIH, NLM"/>
+<meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+<link rel="stylesheet" href="https://toxmap.nlm.nih.gov/toxmap/faq/styles.css" type="text/css" />
+<link rel="start" href="https://toxmap.nlm.nih.gov/toxmap/faq/" title="Home" />
+<script type="text/javascript" src="https://toxmap.nlm.nih.gov/toxmap/faq/mt.js"></script>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="https://toxmap.nlm.nih.gov/toxmap/faq">
+<dc:title>TOXMAP FAQ</dc:title>
+<dc:description>TOXMAP Frequently Asked Questions (and Answers)</dc:description>
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">
+</License>
+</rdf:RDF>
+-->
+
+<!-- Universal Analytics -->
+<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+<!-- DAP -->
+<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+    <title>TOXMAP FAQ:    Toxics Release Inventory (TRI) Archives</title>
+
+
+</head>
+<body id="mt-blog" class="mt-archive-listing mt-category-archive layout-tw">
+    <div id="container">
+        <div id="container-inner">
+
+
+            <header class="x">
+<img src="/toxmap/images/header-cdi.jpg" alt="" title="" width="1015" height="117" usemap="#nlmnih_logo">
+</header>
+<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+<map name="nlmnih_logo" id="nlmnih_logo">
+  <area shape="rect" coords="24,14,375,41" href="https://www.hhs.gov/" alt="U.S. Department of Health and Human Services" />
+  <area shape="rect" coords="842,14,995,41" href="https://www.hhs.gov/" alt="U.S. Department of Health and Human Services" />
+  <area shape="rect" coords="24,59,220,100" href="https://www.nlm.nih.gov/" alt="U.S. National Library of Medicine" />
+  <area shape="rect" coords="221,59,470,100" href="/toxmap/" alt="TOXMAP" />
+</map>
+<nav>
+  <ul>
+    <li class="first"><a href="/toxmap/">Home</a></li>
+    <li><a href="/toxmap/about.html">About</a></li>
+    <li><a href="/toxmap/news/">News</a></li>
+    <li><a href="/toxmap/faq.html">FAQ</a></li>
+    <li><a href="/toxmap/glossary.html">Glossary</a></li>
+    <li><a href="/toxmap/help.html">Help</a></li>
+  </ul>
+<a href="https://sis.nlm.nih.gov/enviro.html" id="last">NLM Environmental Health Portal</a>
+</nav>
+<div id="header">
+    <div id="header-inner">
+        <div id="header-content">
+
+
+<table width="900"><tr> 
+<td>
+&nbsp;
+</td>
+<td align="center">
+     <div id="header-name"><a href="/toxmap/faq/" accesskey="1">TOXMAP FAQ</a></div>
+     <div id="header-description">&nbsp;TOXMAP Frequently Asked Questions (and Answers)</div>
+</td>
+</tr></table>
+
+        </div>
+    </div>
+</div>
+
+
+            <div id="content">
+                <div id="content-inner">
+
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+                            
+                            <h1 id="page-title" class="archive-title"><em>   Toxics Release Inventory (TRI)</em></h1>
+
+
+<a name="skip"></a>
+
+
+
+                            
+                            <div id="entry-68" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/what-is-the-toxics-release-inventory-tri.html" rel="bookmark">What is the Toxics Release Inventory (TRI)?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>The <a href="/toxmap/glossary.html#TRI">Toxics Release Inventory</a> (TRI) is a publicly available database that contains information on toxic chemical releases and other waste management activities reported annually by certain covered industry groups as well as federal facilities. This inventory was established under a federal law called the Emergency Planning and Community Right to Know Act of 1986 (<a href="https://www.epa.gov/epcra/what-epcra">EPCRA</a>) and was expanded by the <a href="https://www.epa.gov/chemicals-under-tsca">Pollution Prevention Act of 1990</a>. It requires facilities in certain industries which manufacture, process, or use significant amounts of toxic chemicals, to report annually on their releases of these chemicals. The reports contain information about the types and amounts of toxic chemicals that are released each year to the air, water, land and by underground injection, as well as information on the quantities of toxic chemicals sent to other facilities for further waste management.</p>
+
+<p>Facilities with ten or more full-time employees that process more than 25,000 pounds in aggregate, or use greater than 10,000 pounds of any one TRI chemical, are required to report releases annually. The <a href="/toxmap/glossary.html#EPA">US EPA</a> maintains this information in the TRI. The toxics release files on the National Library of Medicine's&reg; <a href="/toxmap/glossary.html#TOXNET">TOXNET®</a> come from TRI.</p>
+
+<p>TOXMAP uses the TRI data from the <a href="https://www.epa.gov/trinationalanalysis/report-sections-2016-tri-national-analysis">2016 National Analysis</a> dataset. <a href="/toxmap/glossary.html#TOXNET">NLM TOXNET</a> uses the most current TRI data.  Data submission deadlines, data entry processes, and data quality control and review all influence the actual date of data release by both the EPA and by TOXNET.  A complete list of TRI chemicals required to be reported to the EPA can be found at their <a target="epa" href="https://www2.epa.gov/toxics-release-inventory-tri-program/tri-listed-chemicals">TRI-Listed Chemicals</a> page.</p>
+
+<p><b>NOTE:</b> At this time, TOXMAP uses reported <b>on-site</b> releases only. <b>Some TRI chemicals have no reported releases, and so will not appear in the TRI release data or in TOXMAP.</b> All release amounts are reported in pounds except dioxin which is reported in grams.</p>
+
+<p>For more information, see the <b><a href="https://toxnet.nlm.nih.gov/help/newtoxnet/trifs.html">TRI Fact Sheet</a></b>.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-64" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/what-tri-chemicals-are-mapped-in-toxmap.html" rel="bookmark">What TRI chemicals are mapped in TOXMAP?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>TOXMAP maps the <a href="/toxmap/glossary.html#TRI">TRI</a> chemicals reported to the <a href="/toxmap/glossary.html#EPA">EPA</a>, as required by the <a href="https://www2.epa.gov/epcra-tier-i-and-tier-ii-reporting/what-epcra">Emergency Planning and Community Right to Know Act</a> (EPCRA).</p>
+
+<p>TOXMAP uses the TRI data from the <a href="https://www.epa.gov/trinationalanalysis/report-sections-2016-tri-national-analysis">2016 National Analysis</a> dataset. <a href="/toxmap/glossary.html#TOXNET">NLM TOXNET</a> uses the most current TRI data.</p>
+
+<p>Some TRI chemicals have no reported releases, and so will not appear in the TRI release data or in TOXMAP.  A complete list of TRI chemicals required to be reported to the EPA can be found at their <a target="epa" href="https://www2.epa.gov/toxics-release-inventory-tri-program/tri-listed-chemicals">TRI-Listed Chemicals</a> page.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-61" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/how-accurate-is-tri-data.html" rel="bookmark">How accurate is TRI data?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>The EPA's <a href="/toxmap/glossary.html#TRI">Toxics Release Inventory</a> (TRI) program is a national database that identifies facilities, chemicals manufactured, processed and used at the identified facilities, annual amounts of chemicals released and otherwise managed (on and off site) in waste.</p>
+
+<p>The following information is excerpted from the EPA's <A href="https://www.epa.gov/toxics-release-inventory-tri-program/factors-consider-when-using-toxics-release-inventory-data">"Factors to Consider When Using Toxics Release Inventory Data"</a>:</p>
+
+<p>TRI data do not include release information from all sources or from other waste management activities, and all industry sectors and all chemicals are not covered. TRI data report releases and waste management of the chemicals, but do not reflect exposure information of the public to the chemicals. Only facilities meeting specific <A href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-threshold-screening-tool">criteria</A> are required to report. <br/><br/>All data in TRI (chemicals released, release amounts, etc.) is required by law to be self-reported annually, and is not validated by the EPA. In addition, some of the reporting facilities submit estimated data to TRI. (Since different estimation practices are used, the EPA has published estimation guidance for the user.)</p>
+
+<p>TRI release estimates are one resource that can be used to evaluate exposure or calculate potential risks to human health and the environment. However, it is essential to understand that they do not, by themselves, represent risk.  The determination of potential risk depends on many factors, including toxicity, chemical fate after release, release location, and population concentrations.</p>
+
+<p>Finally, TRI release values are specified for 17 digits after the decimal point, but TOXMAP rounds them to six digits.  NLM's <a href="https://toxnet.nlm.nih.gov/newtoxnet/tri.htm">TOXNET TRI</a> displays exact values.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-59" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/how-current-is-the-tri-data-that-toxmap-uses.html" rel="bookmark">How current is the TRI data that TOXMAP uses?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>TOXMAP uses the TRI data from the <a href="https://www.epa.gov/trinationalanalysis/report-sections-2016-tri-national-analysis">2016 National Analysis</a> dataset. <a href="/toxmap/glossary.html#TOXNET">NLM TOXNET</a> uses the most current TRI data. 1987 is the first reporting year of the TRI program, but by industry convention, 1988 is the first year that TRI data is used for analysis. Data submission deadlines, data entry processes, and data quality control and review all influence the actual date of data release by both the EPA and by TOXNET.  You may download data from the 1987 TRI year <a href="https://www2.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-2016">directly from EPA</a>.</p>
+
+<p>Prior to the final release of a given TRI release year, EPA publishes a preliminary dataset of the upcoming release data. However, TOXNET does not update TRI data until it is final.</p>
+
+<p>A complete list of TRI chemicals required to be reported to the EPA can be found at their <a target="epa" href="https://www2.epa.gov/toxics-release-inventory-tri-program/tri-listed-chemicals">TRI-Listed Chemicals</a> page.</p>
+
+<p><b>NOTE:</b> At this time, TOXMAP uses reported <b>on-site</b> releases only. <b>Some TRI chemicals have no reported releases, and so will not appear in the TRI release data or in TOXMAP.</b></p>
+
+<p>For more information, see the <b><a href="https://toxnet.nlm.nih.gov/help/newtoxnet/trifs.html">TRI Fact Sheet</a></b>.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-56" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/how-accurate-are-tri-locations-in-toxmap.html" rel="bookmark">How accurate are TRI locations in TOXMAP?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>TOXMAP plots the location of all TRI facilities and Superfund sites using addresses and coordinates from the EPA <b><a href="/toxmap/glossary.html#FRS">Facility Registry System</a></b> (FRS). The location of some of these may appear to be slightly inaccurate, because they are calculated by a geocoding estimation process. For general information about the accuracy of locations in TOXMAP, see <b><a href="/toxmap/faq/2009/08/why-are-the-locations-of-some-toxmap-facilitiessites-slightly-inaccurate.html">&quot;Why are the locations of some TOXMAP facilities slightly inaccurate?&quot;</a></b></p>
+
+<p>The EPA recommends use of addresses and coordinates from the FRS.  TOXMAP only plots TRI facilities with defined FRS locations. Corrections to FRS are made year-round by EPA and are incorporated into TOXMAP annually with each year's publicly available data.</p>
+
+<p>This approach avoids many errors in the TRI location data. However, there are also limitations to FRS data, such as in the case of a large facility (tens or hundreds of square miles in area) that reports to multiple EPA programs. Since FRS only uses the &quot;best&quot; of the reported coordinates, a more accurate location for a TRI release may be overlooked (e.g. the street address coordinate is used because it is easily identified as &quot;best&quot;, but the TRI release actually takes place elsewhere).</p>
+
+<p>EPA works continuously to ensure that TRI data are accurate and reliable.  For more information, see the EPA <b><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-quality">TRI Data Quality</a></b> page.</p>  Or to report a data error to EPA, please <a href="https://www.epa.gov/home/forms/contact-epa">contact EPA</a>.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-51" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/how-can-tri-data-be-accessed.html" rel="bookmark">How can TRI data be accessed?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>(This list includes federal government sites only.)</p>
+<ul>
+<li><b>US NLM TOXNET&reg;</b>
+<p><a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?TRI">TOXNET TRI</a> allows users to search TRI chemical names, CAS Registry Numbers, TRI data years, and/or details about the releasing facility. The left menu of the "TRI Search Results" page provides a download option for the retrieved TRI data.</p></li>
+<p>
+<li><b>US EPA TRI Explorer</b>
+<p><A HREF="https://iaspub.epa.gov/triexplorer/tri_release.chemical">EPA TRI Explorer</A> offers custom reports on Releases, Waste Transfer, and Waste Quantity.  Users can view and sort report data online or download it to a text file.</p></li>
+<p>
+<li><b>US EPA Envirofacts</b>
+<p><A HREF="https://www.epa.gov/enviro/index.html">EPA Envirofacts</A> provides simple and advanced queries and reports for TRI data.  Find them on the right under "Advanced Capabilities".</p></li>
+<p>
+<li><b>US EPA's TRI data site</b>
+<p><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools">EPA's TRI data site</a> gives the user different ways to download TRI data:</p>
+<ul>
+  <li>"Annual TRI Public Data Release"-- includes a general overview of that year's TRI data and information on trends;</li>
+  <li><a href="https://iaspub.epa.gov/triexplorer/tri_factsheet_search.searchfactsheet">State Fact Sheets</a>-- provide a brief summary of the TRI data by state and downloadable data files containing TRI reports submitted for the reporting year;</li>
+</ul>
+</ul>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-48" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/what-other-sites-map-tri-data.html" rel="bookmark">What other sites map TRI data?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <ul>
+<li><b>US EPA TRI Explorer Dynamic Maps</b>
+<p><a href="https://iaspub.epa.gov/triexplorer/tri_release.maps">TRI Explorer Dynamic Maps</a> lets the user create reports and color-coded state and county maps of TRI data.</p></li>
+<p>
+<li><b>US EPA EnviroMapper for Envirofacts and MyEnvironment</b>
+<p><a href="https://www.epa.gov/emefdata/em4ef.home">EnviroMapper for Envirofacts</a> and <a href="https://www.epa.gov/myenvironment/">MyEnvironment</a> both display TRI facility locations along with other locations that report to the US EPA.</p></li>
+</ul>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+
+
+                            <div class="content-nav">
+                                <a href="https://toxmap.nlm.nih.gov/toxmap/faq/general-information/">&laquo;     General Information</a> |
+                                <a href="https://toxmap.nlm.nih.gov/toxmap/faq/">Main Index</a>
+
+                                | <a href="https://toxmap.nlm.nih.gov/toxmap/faq/superfund/">  Superfund &raquo;</a>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="beta">
+    <div id="beta-inner">
+
+
+    
+    <div class="widget-archive widget-archive-category widget">
+    <h3 class="widget-header"><a href="/toxmap/faq.html">List of all Questions</a></h3>
+    <h3 class="widget-header">Topics</h3>
+    <div class="widget-content">
+    
+        
+        <ul>
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/general-information/" title="General information about TOXMAP">    General Information (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/toxics-release-inventory-tri/" title="Questions about the EPA Toxics Release Inventory program">   Toxics Release Inventory (TRI) (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/superfund/" title="Questions about the EPA Superfund program">  Superfund (8)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/national-pollutant-release-inventory-npri/" title="Questions about the NPRI program"> National Pollutant Release Inventory (NPRI) (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/clean-air-markets-coal-data/" title="Questions about coal data and the EPA Clean Air Markets program">Clean Air Markets (Coal Data) (4)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/contact-information/" title="TOXMAP contact information">Contact Information (1)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+    </div>
+</div>
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+
+
+                </div>
+            </div>
+
+
+            <footer>
+        <div class="copy-rights">
+            <p><a target="ext" href="https://www.nlm.nih.gov/">US National Library of Medicine&reg;</a>, 8600 Rockville Pike, Bethesda, MD 20894,</p>
+            <p><a target="ext" href="https://www.nih.gov/">National Institutes of Health</a>, <a target="ext" href="https://www.hhs.gov/">Department of Health & Human Services</a></p>
+            <p><a target="ext" href="https://www.nlm.nih.gov/copyright.html">Copyright</a>, <a target="ext" href="https://www.nlm.nih.gov/privacy.html">Privacy</a>, <a target="ext" href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">Freedom of Information Act</a>, <a href="/toxmap/accessibility.html">Accessibility</a></p>
+        </div>
+        <div class="site-info">
+            <p><a href="/toxmap/faq/2009/08/whom-can-i-contact-with-questions-andor-suggestions.html">Contact Us</a>, <a href="/toxmap/metadata.html">Metadata</a></p>
+            <p>Homepage Updated: July, 2018</p>
+            <p><a href="/toxmap/glossary.html#EPA">EPA</a> data: <a href="/toxmap/glossary.html#TRI">TRI</a>- November, 2017; <a href="/toxmap/glossary.html#Superfund">Superfund</a>- November, 2013</p>
+        </div>
+    </footer>
+
+
+
+        </div>
+    </div>
+</body>
+</html>

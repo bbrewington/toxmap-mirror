@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Metadata | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="css/print.css" />
+	<link rel="shortcut icon" href="images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+	$(function(){
+      $("#updatedInclude").load("/toxmap/lastUpdated.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="metadata.html#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+
+<!-- End Content -->
+			<h1>TOXMAP Metadata</h1>
+			<h2>Title:</h2>
+			<p>TOXMAP</p>
+			<br/>
+			<h2>Keywords:</h2>
+			<p>map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical</p>
+			<br/>
+			<h2>Description:</h2>
+			<p><a href="glossary.html#TOXMAP">TOXMAP</a> maps data from the <a href="glossary.html#EPA">US Environmental Protection Agency</a>'s (EPA) <a href="glossary.html#TRI">Toxics Release Inventory</a> (TRI) and <a href="glossary.html#Superfund">Superfund</a> <a href="glossary.html#NPL">National Priorities List</a> (NPL).  It is produced by the <a href="https://sis.nlm.nih.gov">Division of Specialized Information Services</a> of the <a href="https://www.nlm.nih.gov">US National Library of Medicine</a> (NLM).</p>
+			<br/>
+			<h2>Last updated:</h2>
+			<div id="updatedInclude"></div>
+			<br/>
+			<h2>Language:</h2>
+			<p>English</p>
+			<br/>
+			<h2>Contact:</h2>
+			<p><a href="mailto:tehip@teh.nlm.nih.gov">tehip@teh.nlm.nih.gov</a></p>
+<!-- End Content -->
+
+			</div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>

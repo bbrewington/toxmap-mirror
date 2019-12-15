@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="/toxmap/css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/toxmap/css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="/toxmap/css/print.css" />
+	<link rel="shortcut icon" href="/toxmap/images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="/toxmap/js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+
+<!-- Begin Content -->
+				<h1>About TOXMAP®</h1>
+				<p>TOXMAP® is a Geographic Information System (GIS) from the <a target="nlm" href="https://sis.nlm.nih.gov">Division of Specialized Information Services</a> of the US <a target="nlm" href="https://www.nlm.nih.gov">National Library of Medicine®</a> (NLM) that uses maps of the United States and Canada to help users visually explore data primarily from the US Environmental Protection Agency (EPA)'s <a href="/toxmap/glossary.html#TRI">Toxics Release Inventory</a> (TRI) and <a href="/toxmap/glossary.html#Superfund">Superfund Program</a>.</p>
+				<br/>
+				<p>TOXMAP is a resource funded by the US Federal Government; it does not allow advertising on the site or endorse any company or product. It also cannot respond to questions about individual medical cases, provide second opinions, or make specific recommendations regarding therapy. Those issues should be addressed directly with your healthcare provider.</p>
+				<br/>
+				<p>TOXMAP's chemical and environmental health information is taken from NLM's <a href="/toxmap/glossary.html#TOXNET">TOXNET®</a> and <a target="nlm" href="https://www.ncbi.nlm.nih.gov/pubmed">PubMed®</a>, and from other authoritative sources.</p>
+				<br/>
+				<p>Read <a href="/toxmap/faq/2009/08/what-is-toxmap.html">more about TOXMAP</a> and its <a href="/toxmap/faq/2009/08/what-data-sources-does-toxmap-use.html">data sources</a>, <a href="/toxmap/download.html">download</a> its data, or check out the TOXMAP <a href="/toxmap/help/toxmapfs.html">Fact Sheet</a>.</p>
+<!-- End Content -->
+
+            </div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>

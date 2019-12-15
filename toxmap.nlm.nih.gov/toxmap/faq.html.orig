@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Frequently Asked Questions | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="/toxmap/css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/toxmap/css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="/toxmap/css/print.css" />
+	<link rel="shortcut icon" href="/toxmap/images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="/toxmap/js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+
+<!-- Begin Content -->
+                <h1><a href="/toxmap/faq/">Frequently Asked Questions</a></h1>
+				<p>
+				<table>
+				<tr><td><img src='/toxmap/images/ico/blue-arrow.png' width='20' height='20' style="border:0" alt='arrow icon'/><td>
+				<td><h2><a href="/toxmap/faq/"><strong>View entire FAQ</strong></a></h2></td>
+				</tr></table>
+				<h2><a href="/toxmap/faq/general-information/">General Information</a></h2>
+				<ul class="points">
+				<li><a href="/toxmap/faq/2009/08/what-is-toxmap.html">What is TOXMAP?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-should-i-understand-about-chemicals-and-toxicity-while-using-toxmap.html">What should I understand about chemicals and toxicity while using TOXMAP?</a></li>
+				<li><a href="/toxmap/faq/2009/08/there-are-tri-releases-or-superfund-sites-near-my-neighborhood-is-my-health-at-risk.html">There are TRI releases or Superfund sites near my neighborhood. Is my health at risk?</a></li>
+				<li><a href="/toxmap/faq/2009/08/does-toxmap-show-all-sources-of-toxic-chemicals-released-into-or-present-in-the-environment.html">Does TOXMAP show all sources of toxic chemicals released into or present in the environment?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-data-sources-does-toxmap-use.html">What data sources does TOXMAP use?</a></li>
+				<li><a href="/toxmap/faq/2009/08/why-are-the-locations-of-some-toxmap-facilitiessites-slightly-inaccurate.html">Why are the locations of some TOXMAP facilities/sites slightly inaccurate?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-can-toxmap-be-used-by-native-americans-and-other-populations.html">How can TOXMAP be used by Native Americans and other populations?</a></li>
+				</ul>
+				<p>
+				<h2><a href="/toxmap/faq/toxics-release-inventory-tri/">Toxics Release Inventory (TRI)</a></h2>
+				<ul class="points">
+				<li><a href="/toxmap/faq/2009/08/what-is-the-toxics-release-inventory-tri.html">What is the Toxics Release Inventory (TRI)?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-tri-chemicals-are-mapped-in-toxmap.html">What TRI chemicals are mapped in TOXMAP?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-accurate-is-tri-data.html">How accurate is TRI data?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-current-is-the-tri-data-that-toxmap-uses.html">How current is the TRI data that TOXMAP uses?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-accurate-are-tri-locations-in-toxmap.html">How accurate are TRI locations in TOXMAP?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-can-tri-data-be-accessed.html">How can TRI data be accessed?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-other-sites-map-tri-data.html">What other sites map TRI data?</a></li>
+				</ul>
+				<p>
+				<h2><a href="/toxmap/faq/superfund/">Superfund</a></h2>
+				<ul class="points">
+				<li><a href="/toxmap/faq/2009/08/what-is-the-superfund-program.html">What is the "Superfund" Program?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-is-cerclis.html">What is "CERCLIS"?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-kinds-of-chemicals-are-found-at-superfund-sites.html">What kinds of chemicals are found at Superfund sites?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-happens-during-the-clean-up-of-a-superfund-site.html">What happens during the cleanup of a Superfund site?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-other-sites-map-superfund-data.html">What other sites map Superfund data?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-can-i-find-out-who-is-responsible-for-the-clean-up-of-a-superfund-site.html">How can I find out who is responsible for the cleanup of a Superfund site?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-are-the-superfund-site-npl-statuses.html">What are the Superfund site "NPL" statuses?</a></li>
+				<li><a href="/toxmap/faq/2009/08/what-is-the-national-priorities-list-npl.html">What is the "National Priorities List" (NPL)?</a></li>
+				</ul>
+				<p>
+				<h2><a href="/toxmap/faq/national-pollutant-release-inventory-npri/">National Pollutant Release Inventory (NPRI)</a></h2>
+				<ul class="points">
+				<li><a href="/toxmap/faq/2009/08/what-is-the-national-pollutant-release-inventory-npri.html">What is the National Pollutant Release Inventory (NPRI)?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-can-i-find-out-more-about-npri-data-quality-chemicals-reporting-requirements-etc.html">How can I find out more about NPRI data quality, chemicals, reporting requirements, etc.?</a></li>
+				</ul>
+				<p>
+				<h2><a href="/toxmap/faq/clean-air-markets-coal-data/">Clean Air Markets (Coal Data)</a></h2>
+				<ul class="points">
+				<li><a href="/toxmap/faq/2009/08/what-is-the-epa-clean-air-markets-program.html">What is the EPA Clean Air Markets Program?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-much-of-the-us-electricity-generation-is-attributed-to-coal.html">How much of the US electricity generation is attributed to coal?</a></li>
+				<li><a href="/toxmap/faq/2009/08/how-much-of-us-carbon-dioxide-emissions-are-from-coal-fired-power-plants.html">How much of US carbon dioxide emissions are from coal-fired power plants?</a></li>
+				<li><a href="/toxmap/faq/2009/08/where-can-i-learn-more-about-coal-electricity-generation-and-related-topics.html">Where can I learn more about coal, electricity generation, and related topics?</a></li>
+				</ul>
+				<p>
+				<h2><a href="/toxmap/faq/contact-information/">Contact Information</a></h2>
+				<ul class="points">
+				<li><a href="/toxmap/faq/2009/08/whom-can-i-contact-with-questions-andor-suggestions.html">Whom can I contact with questions and/or suggestions?</a></li>
+				</ul>
+				<p>
+<!-- End Content -->
+
+            </div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TOXMAP and Native American Populations | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="/toxmap/css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/toxmap/css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="/toxmap/css/print.css" />
+	<link rel="shortcut icon" href="/toxmap/images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="/toxmap/js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+			<h1>TOXMAP and Native American Populations</h1>
+			<p>Although TOXMAP is not specifically designed for any one particular group, the TRI and Superfund Programs can be of interest to specific populations such as Native Americans by helping to find sources of chemical releases and contamination in locations of interest to them.</p><br>
+			<p>The <a href="/toxmap/glossary.html#TRI">Toxics Release Inventory</a> (TRI) Program provides information on the industrial release and handling of certain chemicals that may pose a threat to human health and the environment. Certain US facilities specified by law must report to the <a href="/toxmap/glossary.html#EPA">US Environmental Protection Agency</a> (EPA) how much of each chemical is released, recycled, or managed. This information is collected annually in the TRI.</p><br/>
+			<p>The EPA <a href="/toxmap/glossary.html#Superfund">Superfund program</a> is part of a federal government effort to clean up land in the United States that has been contaminated by hazardous waste and that has been identified by the EPA as a candidate for cleanup because it poses a risk to human health and/or to the environment.</p><br/>
+			<p>To locate Indian reservations or rancherias in TOXMAP, enter its name into the "Enter Location" search box, then click the magnifying glass.  As you start typing, you might see a dropdown appear with suggested locations:</p><br/>
+			<p><center><img src="/toxmap/images/tribal/zoom.png" style="border:1" alt="Screenshot of Location search box in TOXMAP"></center></p>
+			<p>You can also save the location for later use by clicking the "Bookmark" icon (<img src="/toxmap/images/help/bookmark.png" width="41" height="36" alt="picture of a book icon">). You can then use the "bookmark" to zoom to that location for quick reference later in your session or at a later date.</p><br/>
+			<p>In the Table of Contents, click the "Native Lands (AI / AN / NH)" layer to show the locations of American Indian Reservations and Off-Reservation Trust Lands, Alaska Native Village Statistical Areas, and Hawaiian Home Lands, as defined by the <a href="https://www.census.gov">U.S. Census</a>.  This layer can be toggled on and off via the Table of Contents:</p><br/>
+			<p><center><img src="/toxmap/images/tribal/native-lands.png" style="border:1" alt="Screenshot of Native Lands layer in TOXMAP"></center></p>
+			<p>Finally, you can also overlay U.S. Census data by race: "American Indian and Alaskan Native" (1990 and 2000) or "American Indian" (2010).  Click on the map to see more demographic data about this county.</p><br/>
+			<center>
+			<p><img src="/toxmap/images/tribal/census.png" style="border:1" alt="Screenshot of an American Indian layer in TOXMAP"></p><br/>
+			</center>
+			<p>More information from the EPA:</p>
+			<ul class="points">
+			<li><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-uses">What can you do with TRI?</a></li>
+			<li><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-information-you">TRI Information for You</a></li>
+			<li><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-reporting-facilities-located-indian-country">TRI Reporting in Indian Country</a></li>
+			<li><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-for-communities">TRI for Communities</a></li>
+			</ul>
+			</div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>

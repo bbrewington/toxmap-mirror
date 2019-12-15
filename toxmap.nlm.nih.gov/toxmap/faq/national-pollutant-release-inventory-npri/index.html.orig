@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Movable Type 4.38" />
+<meta name="author" content="Booz Allen Hamilton, Inc. for the US National Library of Medicine"/>
+<meta name="keywords" content="Toxics Release Inventory, TRI, Superfund, NPL, National Priorities List, environmental health, toxins, chemicals, Benzene, Mercury, Toluene, Chlorine, Lead, Arsenic, Acetone, CERCLIS, toxicology, NIH, NLM"/>
+<meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+<link rel="stylesheet" href="https://toxmap.nlm.nih.gov/toxmap/faq/styles.css" type="text/css" />
+<link rel="start" href="https://toxmap.nlm.nih.gov/toxmap/faq/" title="Home" />
+<script type="text/javascript" src="https://toxmap.nlm.nih.gov/toxmap/faq/mt.js"></script>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="https://toxmap.nlm.nih.gov/toxmap/faq">
+<dc:title>TOXMAP FAQ</dc:title>
+<dc:description>TOXMAP Frequently Asked Questions (and Answers)</dc:description>
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">
+</License>
+</rdf:RDF>
+-->
+
+<!-- Universal Analytics -->
+<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+<!-- DAP -->
+<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+    <title>TOXMAP FAQ:  National Pollutant Release Inventory (NPRI) Archives</title>
+
+
+</head>
+<body id="mt-blog" class="mt-archive-listing mt-category-archive layout-tw">
+    <div id="container">
+        <div id="container-inner">
+
+
+            <header class="x">
+<img src="/toxmap/images/header-cdi.jpg" alt="" title="" width="1015" height="117" usemap="#nlmnih_logo">
+</header>
+<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+<map name="nlmnih_logo" id="nlmnih_logo">
+  <area shape="rect" coords="24,14,375,41" href="https://www.hhs.gov/" alt="U.S. Department of Health and Human Services" />
+  <area shape="rect" coords="842,14,995,41" href="https://www.hhs.gov/" alt="U.S. Department of Health and Human Services" />
+  <area shape="rect" coords="24,59,220,100" href="https://www.nlm.nih.gov/" alt="U.S. National Library of Medicine" />
+  <area shape="rect" coords="221,59,470,100" href="/toxmap/" alt="TOXMAP" />
+</map>
+<nav>
+  <ul>
+    <li class="first"><a href="/toxmap/">Home</a></li>
+    <li><a href="/toxmap/about.html">About</a></li>
+    <li><a href="/toxmap/news/">News</a></li>
+    <li><a href="/toxmap/faq.html">FAQ</a></li>
+    <li><a href="/toxmap/glossary.html">Glossary</a></li>
+    <li><a href="/toxmap/help.html">Help</a></li>
+  </ul>
+<a href="https://sis.nlm.nih.gov/enviro.html" id="last">NLM Environmental Health Portal</a>
+</nav>
+<div id="header">
+    <div id="header-inner">
+        <div id="header-content">
+
+
+<table width="900"><tr> 
+<td>
+&nbsp;
+</td>
+<td align="center">
+     <div id="header-name"><a href="/toxmap/faq/" accesskey="1">TOXMAP FAQ</a></div>
+     <div id="header-description">&nbsp;TOXMAP Frequently Asked Questions (and Answers)</div>
+</td>
+</tr></table>
+
+        </div>
+    </div>
+</div>
+
+
+            <div id="content">
+                <div id="content-inner">
+
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+                            
+                            <h1 id="page-title" class="archive-title"><em> National Pollutant Release Inventory (NPRI)</em></h1>
+
+
+<a name="skip"></a>
+
+
+
+                            
+                            <div id="entry-70" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/what-is-the-national-pollutant-release-inventory-npri.html" rel="bookmark">What is the National Pollutant Release Inventory (NPRI)?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>The <a href="/toxmap/glossary.html#NPRI">National Pollutant Release Inventory</a> (NPRI) is Canada's legislated, publicly accessible inventory of pollutant releases (to air, water and land), disposals and transfers for recycling. According to <a href="https://www.canada.ca/en/services/environment/pollution-waste-management/national-pollutant-release-inventory.html">its home page</a>, it is a key resource for:
+<ul>
+<li>identifying pollution prevention priorities;</li>
+<li>supporting the assessment and risk management of chemicals, and air quality modelling;</li>
+<li>helping develop targeted regulations for reducing releases of toxic substances and air pollutants;</li>
+<li>encouraging actions to reduce the release of pollutants into the environment; and
+<li>improving public understanding.</li>
+</ul></p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-73" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://toxmap.nlm.nih.gov/toxmap/faq/2009/08/how-can-i-find-out-more-about-npri-data-quality-chemicals-reporting-requirements-etc.html" rel="bookmark">How can I find out more about NPRI data quality, chemicals, reporting requirements, etc.?</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+
+            </span>
+
+            
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>The best way to find out more about NPRI topics is to <b><a href="https://www.canada.ca/en/services/environment/pollution-waste-management/national-pollutant-release-inventory.html">visit its website</a></b>, including the <a href="https://www.canada.ca/en/environment-climate-change/services/national-pollutant-release-inventory/frequently-asked-questions.html">Frequently Asked Questions</a>.  Note that the FAQ is archived content and is not updated after the date of archiving.  You can also <a href="https://www.canada.ca/en/environment-climate-change/services/national-pollutant-release-inventory/contact.html">contact the NPRI program</a> directly.</p>
+<p>
+<p>For broader topics about the Canadian environment, see the Environment and Climate Change Canada (<a href="https://www.canada.ca/en/environment-climate-change.html">ECCC</a>) website.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+
+
+                            <div class="content-nav">
+                                <a href="https://toxmap.nlm.nih.gov/toxmap/faq/superfund/">&laquo;   Superfund</a> |
+                                <a href="https://toxmap.nlm.nih.gov/toxmap/faq/">Main Index</a>
+
+                                | <a href="https://toxmap.nlm.nih.gov/toxmap/faq/clean-air-markets-coal-data/">Clean Air Markets (Coal Data) &raquo;</a>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="beta">
+    <div id="beta-inner">
+
+
+    
+    <div class="widget-archive widget-archive-category widget">
+    <h3 class="widget-header"><a href="/toxmap/faq.html">List of all Questions</a></h3>
+    <h3 class="widget-header">Topics</h3>
+    <div class="widget-content">
+    
+        
+        <ul>
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/general-information/" title="General information about TOXMAP">    General Information (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/toxics-release-inventory-tri/" title="Questions about the EPA Toxics Release Inventory program">   Toxics Release Inventory (TRI) (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/superfund/" title="Questions about the EPA Superfund program">  Superfund (8)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/national-pollutant-release-inventory-npri/" title="Questions about the NPRI program"> National Pollutant Release Inventory (NPRI) (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/clean-air-markets-coal-data/" title="Questions about coal data and the EPA Clean Air Markets program">Clean Air Markets (Coal Data) (4)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://toxmap.nlm.nih.gov/toxmap/faq/contact-information/" title="TOXMAP contact information">Contact Information (1)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+    </div>
+</div>
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+
+
+                </div>
+            </div>
+
+
+            <footer>
+        <div class="copy-rights">
+            <p><a target="ext" href="https://www.nlm.nih.gov/">US National Library of Medicine&reg;</a>, 8600 Rockville Pike, Bethesda, MD 20894,</p>
+            <p><a target="ext" href="https://www.nih.gov/">National Institutes of Health</a>, <a target="ext" href="https://www.hhs.gov/">Department of Health & Human Services</a></p>
+            <p><a target="ext" href="https://www.nlm.nih.gov/copyright.html">Copyright</a>, <a target="ext" href="https://www.nlm.nih.gov/privacy.html">Privacy</a>, <a target="ext" href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">Freedom of Information Act</a>, <a href="/toxmap/accessibility.html">Accessibility</a></p>
+        </div>
+        <div class="site-info">
+            <p><a href="/toxmap/faq/2009/08/whom-can-i-contact-with-questions-andor-suggestions.html">Contact Us</a>, <a href="/toxmap/metadata.html">Metadata</a></p>
+            <p>Homepage Updated: July, 2018</p>
+            <p><a href="/toxmap/glossary.html#EPA">EPA</a> data: <a href="/toxmap/glossary.html#TRI">TRI</a>- November, 2017; <a href="/toxmap/glossary.html#Superfund">Superfund</a>- November, 2013</p>
+        </div>
+    </footer>
+
+
+
+        </div>
+    </div>
+</body>
+</html>

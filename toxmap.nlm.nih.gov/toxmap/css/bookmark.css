@@ -1,0 +1,105 @@
+/* 
+===========================================================
+PAGE OPTIONS (RIGHT COLUMN)
+===========================================================
+*/
+
+ul#bookmarks {
+    position: relative;
+	margin: 0;
+	padding-left: 0;
+	list-style: none !important;
+	list-style-type: none !important;
+	list-style-image: none !important;
+}	
+
+ul#bookmarks a,
+ul#bookmarks a:visited,
+ul#bookmarks li a:visited{
+	position: relative;
+	display: block;
+	text-decoration: none;
+	padding: 0;
+}
+ul#bookmarks li ul li a {
+	color: #336699;
+}
+ul#bookmarks li ul li a:hover {
+	text-decoration: underline;
+}
+
+ul#bookmarks li ul {
+	font-size: 0.9em;
+	position: absolute;
+	width: 150px;
+	border: solid 1px #339;
+	padding: 5px 15px;
+	left: -999em;
+	background-color: white;
+	list-style: none !important;
+	list-style-type: none !important;
+	list-style-image: none !important;
+}
+
+ul#bookmarks li:hover ul,
+ul#bookmarks li.sfhover ul {
+	right: 5px;
+	top: 20px;
+	left: auto;
+}
+
+ul#bookmarks li ul li {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-image: none;
+	height: 20px;
+}
+
+ul#bookmarks li ul li a:link,
+ul#bookmarks li ul li a:visited,
+ul#bookmarks li ul li a:hover,
+ul#bookmarks li ul li a:active {
+	padding-left: 20px;
+}
+
+ul#bookmarks li ul li.email a {
+	background: transparent url('../images/ico/icon_email.gif') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.favorites a {
+	background: transparent url('../images/ico/favorites.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.delicious a {
+	background: transparent url('../images/ico/delicious.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.stumbleupon a {
+	background: transparent url('../images/ico/stumbleupon.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.technorati a {
+	background: transparent url('../images/ico/technorati.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.digg a {
+	background: transparent url('../images/ico/digg.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.myspace a {
+	background: transparent url('../images/ico/myspace.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.facebook a {
+	background: transparent url('../images/ico/facebook.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.google a {
+	background: transparent url('../images/ico/goog.png') 0 center no-repeat;
+}
+
+ul#bookmarks li ul li.yahoo a {
+	background: transparent url('../images/ico/yahoo-myweb.png') 0 center no-repeat;
+} 

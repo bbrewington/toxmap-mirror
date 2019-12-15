@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Glossary | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="/toxmap/css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/toxmap/css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="/toxmap/css/print.css" />
+	<link rel="shortcut icon" href="/toxmap/images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="/toxmap/js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="/toxmap/js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+
+<!-- Begin content -->
+<!-- Begin generated content (copy/paste from glossary-terms.html) -->
+<a name='top'></a>
+<table width='900' border='0'>
+<tr>
+<h1>TOXMAP Glossary of Terms</h1>
+</tr>
+<tr> <!-- Row #1 -->
+<td>
+<a href='#Acute_toxicity'>Acute toxicity</a>
+</td>
+<td>
+<a href='#EPA'>EPA</a>
+</td>
+<td>
+<a href='#On-site_release'>On-site release</a>
+</td>
+</tr>
+<tr> <!-- Row #2 -->
+<td>
+<a href='#Aggregate'>Aggregate</a>
+</td>
+<td>
+<a href='#Form_A'>Form A</a>
+</td>
+<td>
+<a href='#Reference_data'>Reference data</a>
+</td>
+</tr>
+<tr> <!-- Row #3 -->
+<td>
+<a href='#AMPD'>AMPD</a>
+</td>
+<td>
+<a href='#FRS'>FRS (Facility Registry Service)</a>
+</td>
+<td>
+<a href='#Release_medium'>Release medium</a>
+</td>
+</tr>
+<tr> <!-- Row #4 -->
+<td>
+<a href='#ATSDR'>ATSDR</a>
+</td>
+<td>
+<a href='#GIS'>GIS</a>
+</td>
+<td>
+<a href='#Response'>Response</a>
+</td>
+</tr>
+<tr> <!-- Row #5 -->
+<td>
+<a href='#Basemap'>Basemap</a>
+</td>
+<td>
+<a href='#Gross_load'>Gross load</a>
+</td>
+<td>
+<a href='#Risk'>Risk</a>
+</td>
+</tr>
+<tr> <!-- Row #6 -->
+<td>
+<a href='#Bookmarks'>Bookmarks</a>
+</td>
+<td>
+<a href='#Heat_input'>Heat input</a>
+</td>
+<td>
+<a href='#Risk_assessment'>Risk assessment</a>
+</td>
+</tr>
+<tr> <!-- Row #7 -->
+<td>
+<a href='#CAS'>CAS (Chemical Abstracts Service)</a>
+</td>
+<td>
+<a href='#HRS'>HRS (Hazard Ranking System)</a>
+</td>
+<td>
+<a href='#SARA'>SARA</a>
+</td>
+</tr>
+<tr> <!-- Row #8 -->
+<td>
+<a href='#CERCLA'>CERCLA</a>
+</td>
+<td>
+<a href='#HSDB'>HSDB®</a>
+</td>
+<td>
+<a href='#Search'>Search</a>
+</td>
+</tr>
+<tr> <!-- Row #9 -->
+<td>
+<a href='#CERCLIS'>CERCLIS</a>
+</td>
+<td>
+<a href='#Latitude'>Latitude</a>
+</td>
+<td>
+<a href='#SIS'>SIS</a>
+</td>
+</tr>
+<tr> <!-- Row #10 -->
+<td>
+<a href='#Chronic_toxicity'>Chronic toxicity</a>
+</td>
+<td>
+<a href='#Layer'>Layer</a>
+</td>
+<td>
+<a href='#Spatial_data'>Spatial data</a>
+</td>
+</tr>
+<tr> <!-- Row #11 -->
+<td>
+<a href='#Clean_Air_Markets'>Clean Air Markets</a>
+</td>
+<td>
+<a href='#Legend'>Legend</a>
+</td>
+<td>
+<a href='#Superfund'>Superfund</a>
+</td>
+</tr>
+<tr> <!-- Row #12 -->
+<td>
+<a href='#Contaminant'>Contaminant</a>
+</td>
+<td>
+<a href='#Longitude'>Longitude</a>
+</td>
+<td>
+<a href='#TEHIP'>TEHIP</a>
+</td>
+</tr>
+<tr> <!-- Row #13 -->
+<td>
+<a href='#Coordinates'>Coordinates</a>
+</td>
+<td>
+<a href='#Males_to_100_Females'>Males to 100 Females</a>
+</td>
+<td>
+<a href='#Topography'>Topography</a>
+</td>
+</tr>
+<tr> <!-- Row #14 -->
+<td>
+<a href='#Dataset'>Dataset</a>
+</td>
+<td>
+<a href='#Map_projection'>Map projection</a>
+</td>
+<td>
+<a href='#Topology'>Topology</a>
+</td>
+</tr>
+<tr> <!-- Row #15 -->
+<td>
+<a href='#Demographic_data'>Demographic data</a>
+</td>
+<td>
+<a href='#Median_age'>Median age</a>
+</td>
+<td>
+<a href='#Toxicity'>Toxicity</a>
+</td>
+</tr>
+<tr> <!-- Row #16 -->
+<td>
+<a href='#DHHS'>DHHS</a>
+</td>
+<td>
+<a href='#Metadata'>Metadata</a>
+</td>
+<td>
+<a href='#Toxicology'>Toxicology</a>
+</td>
+</tr>
+<tr> <!-- Row #17 -->
+<td>
+<a href='#Diversity_index'>Diversity index</a>
+</td>
+<td>
+<a href='#NCHS'>NCHS</a>
+</td>
+<td>
+<a href='#TOXLINE'>TOXLINE®</a>
+</td>
+</tr>
+<tr> <!-- Row #18 -->
+<td>
+<a href='#Dose'>Dose</a>
+</td>
+<td>
+<a href='#NCI_SEER'>NCI SEER</a>
+</td>
+<td>
+<a href='#TOXMAP'>TOXMAP®</a>
+</td>
+</tr>
+<tr> <!-- Row #19 -->
+<td>
+<a href='#EIA'>EIA</a>
+</td>
+<td>
+<a href='#NPL'>NPL (National Priorities List)</a>
+</td>
+<td>
+<a href='#TOXNET'>TOXNET®</a>
+</td>
+</tr>
+<tr> <!-- Row #20 -->
+<td>
+<a href='#Environment'>Environment</a>
+</td>
+<td>
+<a href='#NPRI'>NPRI</a>
+</td>
+<td>
+<a href='#TRI'>TRI</a>
+</td>
+</tr>
+<tr> <!-- Row #21 -->
+<td>
+<a href='#Environmental_fate'>Environmental fate</a>
+</td>
+<td>
+<a href='#Nuclear_power_plants'>Nuclear power plants</a>
+</td>
+<td>
+</td>
+</tr>
+</table>
+<br/>
+<!-- End generated content (copy/paste from glossary-terms.html) -->
+<p><h2>Other toxicology-related glossaries:</h2>
+<p><a href="https://sis.nlm.nih.gov/enviro/iupacglossary/frontmatter.html">Glossary for Chemists of Terms Used in Toxicology</a> (National Library of Medicine®)</p>
+<p><a href="https://www.atsdr.cdc.gov/glossary.html">Glossary of Terms</a> (Agency for Toxic Substances and Disease Registry)</p>
+<p><a href="https://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do">Terms and Acronyms</a> (Environmental Protection Agency)</p>
+<br/>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Acute_toxicity'></a>
+<p><h2>Acute toxicity</h2>
+<p>The capacity of a biologically active agent to cause serious harm, injury, or death to a living system following a single <a href="#Dose">dose</a> or a single brief exposure.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Aggregate'></a>
+<p><h2>Aggregate</h2>
+<p>The grouping together of a selected set of like entities (usually adjacent) to form one entity.<br><br>
+All TRI release amounts are aggregates in pounds of chemicals released to all environmental media (e.g., air, water, land, underground injection).  TOXMAP shows only <a href="#On-site_release">on-site releases</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='AMPD'></a>
+<p><h2>AMPD</h2>
+<p><a href="https://ampd.epa.gov/ampd/">Air Markets Program Data</a> is a publicly-available EPA data system for searching and downloading data collected as part of EPA's emissions trading programs.
+</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='ATSDR'></a>
+<p><h2>ATSDR</h2>
+<p>The <a href="https://www.atsdr.cdc.gov/">ATSDR</a> (Agency for Toxic Substances and Disease Registry) is a federal public health agency of the US Department of Health and Human Services (<a href="#DHHS">DHHS</a>).  The ATSDR provides health information related to prevention of harmful exposures and diseases related to toxic substances.
+</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Basemap'></a>
+<p><h2>Basemap</h2>
+<p>A map depicting background reference information such as landforms, roads, landmarks, and political boundaries, onto which other thematic information is placed. TOXMAP supports a variety of basemaps including Streets, Imagery (satellite), and Topographic (terrain). You can change your basemap via the Basemap Gallery <img src='/toxmap/images/help/basemap.png' height='25' alt='Basemap icon from the TOXMAP toolbar'/> on the Toolbar to achieve a different look, or to provide better contrast against other map data.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Bookmarks'></a>
+<p><h2>Bookmarks</h2>
+<p>In TOXMAP, Bookmarks zoom the map to a pre-set location, and are accessible via the toolbar <img src='/toxmap/images/help/bookmark.png' height='25' alt='Bookmark icon from the TOXMAP toolbar'/>. You can also save and name your current map area as a bookmark so that you can zoom to it later.  Only the map area is preserved, not the data on the map. Bookmark data are saved only on your local computer.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='CAS'></a>
+<p><h2>CAS (Chemical Abstracts Service)</h2>
+<p><a href="https://www.cas.org/">Chemical Abstracts Service</a>, a division of the <a href="https://www.acs.org/">American Chemical Society</a> is an abstracting and indexing service for chemical scientific literature. This service assigns a unique <a href="https://www.cas.org/content/chemical-substances/faqs">Registry Number</a> (RN) to chemical substances, which are often known by more than one name.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='CERCLA'></a>
+<p><h2>CERCLA</h2>
+<p>The <a href="https://www.epa.gov/superfund/superfund-cercla-overview">Comprehensive Environmental Response, Compensation, and Liability Act</a> (CERCLA), commonly known as <a href="https://www.epa.gov/superfund">Superfund</a>, was enacted by Congress on December 11, 1980. This law created a tax on the chemical and petroleum industries and provided broad Federal authority to respond directly to releases or threatened releases of hazardous substances that may endanger public health or the environment. CERCLA was amended by the Superfund Amendments and Reauthorization Act (<a href="https://www.epa.gov/superfund/superfund-amendments-and-reauthorization-act-sara">SARA</a>)  on October 17, 1986. </p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='CERCLIS'></a>
+<p><h2>CERCLIS</h2>
+<p>The Comprehensive Environmental Response, Compensation and Liability Information System (<a href="https://cumulis.epa.gov/supercpad/">CERCLIS</a>) is an <a href="https://www.epa.gov/superfund/superfund-data-and-reports">EPA database</a> containing information on hazardous waste sites, potentially hazardous waste sites, and associated remedial activities across the nation.  It was retired in November 2013 and replaced by <a href="https://www.epa.gov/enviro/sems-overview">SEMS</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Chronic_toxicity'></a>
+<p><h2>Chronic toxicity</h2>
+<p>The capacity of a biologically active agent to produce toxic effects following long-continued or numerous brief exposures, or to produce effects which persist whether they occur immediately upon exposure or are delayed.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Clean_Air_Markets'></a>
+<p><h2>Clean Air Markets (CAMD)</h2>
+<p>The <a href="https://www.epa.gov/airmarkets">Clean Air Markets Division</a> of EPA includes several market-based regulatory programs designed to improve air quality and ecosystems.</p>
+<p>See the "<a href="/toxmap/faq/2009/08/what-is-the-epa-clean-air-markets-program.html">What is the EPA Clean Air Markets Program?</a>" FAQ.</p>
+<br/><a href='#top'>top</a><center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Contaminant'></a>
+<p><h2>Contaminant</h2>
+<p>A substance that is either present in an environment where it does not belong or is present at levels that might cause harmful (adverse) health effects; any physical, chemical, biological, or radiological substance or matter that has an adverse effect on air, water, or soil.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Coordinates'></a>
+<p><h2>Coordinates</h2>
+<p>A set of numbers that locates the position of a point on a map, usually represented by (x,y) values corresponding to the point’s longitude and latitude, respectively.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Dataset'></a>
+<p><h2>Dataset</h2>
+<p>A collection of related data records on a computer-readable medium. In TOXMAP, "dataset" refers to the Toxics Release Inventory <a href="#TRI">(TRI)</a>, <a href="#Superfund">Superfund</a>, <a href="#NPRI">NPRI</a>, <a href="#Clean_Air_Markets">coal power plants</a>, <a href="#Demographic_data">demographic data</a>, or <a href="#NCI_SEER">NCI mortality data</a>.  See more about TOXMAP’s <a href="/toxmap/faq/2009/08/what-data-sources-does-toxmap-use.html">data sources</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Demographic_data'></a>
+<p><h2>Demographic data</h2>
+<p>Factual information pertaining to the study of the characteristics of human populations, such as size, growth, density, distribution, and vital statistics. TOXMAP allows users to overlay demographic data (e.g., <a href="https://www.census.gov/">US Census</a>, per capita personal income) and <a href="#NCI_SEER">NCI mortality data</a> over  environmental data.
+</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='DHHS'></a>
+<p><h2>DHHS</h2>
+<p>The <a href="https://www.hhs.gov/">Department of Health and Human Services</a> (DHHS) is the United States government's principal agency for protecting the health of all Americans and providing essential human services, especially for those who are least able to help themselves.  The <a href="https://www.nih.gov/">National Institutes of Health</a> (NIH) is an agency of the DHHS.
+The <a href="https://www.nlm.nih.gov/">National Library of Medicine</a>® (NLM) is an Institute of the NIH.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Diversity_index'></a>
+<p><h2>Diversity index</h2>
+<p>In demographics, a quantitative measure that answers the question, "What are the chances that any two people chosen at random in a given area will be of two different races?"  A racially diverse area will have a higher diversity index than that of a uniform population.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Dose'></a>
+<p><h2>Dose</h2>
+<p>The total amount of a chemical administered to, or taken by, an organism.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='EIA'></a>
+<p><h2>EIA</h2>
+<p>According to <a href="https://www.eia.gov/">their web site</a>, the EIA (US Energy Information Administration) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.  Coal plants in TOXMAP link to their record in the EIA <a href="https://www.eia.gov/electricity/data/browser/">Electricity Data Browser</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Environment'></a>
+<p><h2>Environment</h2>
+<p>The surroundings, including water, air, soil, and their inter-relationships as well as relationships between them and any living organism.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Environmental_fate'></a>
+<p><h2>Environmental fate</h2>
+<p>The result/outcome of the chemical or biological pollutant after it has been released into the natural environment. The fate depends upon the specific characteristics of the chemical and the physical and biological forces which may act upon that chemical, such as heat, water or soil microorganisms. </p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='EPA'></a>
+<p><h2>EPA</h2>
+<p>The <a href="https://www.epa.gov">Environmental Protection Agency</a> (EPA) is the federal agency designed to protect human health and the environment.   The EPA produces the <a href="#TRI">TRI</a> database, which contains information on toxic chemical releases.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Form_A'></a>
+<p><h2>Form A</h2>
+<p>EPA's TRI Form A provides certain facilities the option of submitting a substantially shorter reporting form. Not all facilities are eligible to submit Form A reports; this has varied over the years. Eligibility has been based on the annual reportable amount of the chemical, such as the sum of production-related releases and other waste management and the amount manufactured, processed, or otherwise used.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='FRS'></a>
+<p><h2>FRS (Facility Registry Service)</h2>
+<p>The <a href="https://www.epa.gov/enviro/facility-registry-service-frs">Facility Registry Service</a> (FRS) is a centrally managed database from the <a href="#EPA">EPA</a> that identifies facilities, sites or places subject to environmental regulations or of environmental interest.  TOXMAP plots the location of most <a href="#TRI">TRI</a> facilities using addresses and coordinates from the FRS.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='GIS'></a>
+<p><h2>GIS</h2>
+<p>GIS (Geographic Information System) is a means of storing, displaying, and analyzing data that can be referenced geographically.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Gross_load'></a>
+<p><h2>Gross Load</h2>
+<p>The rate of electrical generation of a unit or source produced by combusting a given <a href="#Heat_input">heat input</a> of fuel.  Measured in either Megawatts or Megawatt-hours (MW-h).</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Heat_input'></a>
+<p><h2>Heat Input</h2>
+<p>The measure of utilization that is calculated by multiplying the quantity of fuel by the fuel's heat content.  It is measured in MMBtu (million British Thermal Units), a unit of energy equal to about 1055 joules.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='HRS'></a>
+<p><h2>HRS (Hazard Ranking System)</h2>
+<p>The <a href="https://www.epa.gov/superfund/hrs-toolbox">Hazard Ranking System</a> (HRS) is a numerically based screening system that uses information to assess the relative potential of sites to pose a threat to human health or the environment. The HRS is used by the  <a href="#EPA">EPA</a> to place uncontrolled waste sites on the <a href="#NPL">National Priorities List</a> (NPL). </p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='HSDB'></a>
+<p><h2>HSDB®</h2>
+<p><a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB">HSDB</a> (Hazardous Substances Data Bank) is a database from the <a href="https://www.nlm.nih.gov/">National Library of Medicine</a> (NLM) with comprehensive, peer-reviewed toxicology data for thousands of chemicals. It contains a broad scope in human and animal toxicity, safety and handling, and environmental fate.
+<br><br>
+See also the <a href="https://toxnet.nlm.nih.gov/help/newtoxnet/hsdbfs.html">HSDB Fact Sheet</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Latitude'></a>
+<p><h2>Latitude</h2>
+<p>The angular distance in degrees north or south from the equator of a point on the Earth's surface.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Layer'></a>
+<p><h2>Layer</h2>
+<p>Visual representation of a geographic dataset in any digital map environment.  Roads, national parks, political boundaries and rivers are examples of layers.  In TOXMAP, layers can be turned on and off via the Table of Contents <img src='/toxmap/images/help/table-of-contents.png' height='25' alt='TOXMAP Table of Contents icon'/>, which is available via the Toolbar.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Legend'></a>
+<p><h2>Legend</h2>
+<p>The map legend tells a map reader the meaning of the symbols used to represent features on the map. Legends consist of examples of the symbols on the map with labels containing explanatory text.  In TOXMAP, the Legend can be seen via its icon <img src='/toxmap/images/help/legend.png' height='25' alt='TOXMAP Legend icon'/> in the Toolbar.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Longitude'></a>
+<p><h2>Longitude</h2>
+<p>The angular distance in degrees east or west from the Prime Meridian (Greenwich, England) of a point on the Earth's surface.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Males_to_100_Females'></a>
+<p><h2>Males to 100 Females</h2>
+<p>A method used by demographers to measure the relative number of males and females in a population. The male-to-female sex ratio is calculated by dividing the number of males (of all ages) by the number of females (of all ages) and multiplying by 100. A value above 100 means there are more males than females in the population. A value below 100 indicates more females than males.
+</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Map_projection'></a>
+<p><h2>Map projection</h2>
+<p>A map projection is a way to represent the curved surface of the Earth on the flat surface of a map. TOXMAP uses a map projection (called "Web Mercator") that has been adopted as an online map industry standard.<br><br>
+You can learn more about <a href="https://isis.astrogeology.usgs.gov/fixit/projects/isis/wiki/Learning_About_Map_Projections">map projections</a> from the USGS.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Median_age'></a>
+<p><h2>Median age</h2>
+<p>The median divides the age distribution into two equal parts: one-half of the cases falling below the median age and one-half above the median. </p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Metadata'></a>
+<p><h2>Metadata</h2>
+<p>Metadata is data that describes other data.  It provides additional information about the data that the <a href="#GIS">GIS</a> uses, which is not included in the data itself. The adoption of metadata standards promotes consistency in the naming, defining, operating, and cataloging of data among different entities.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='NCHS'></a>
+<p><h2>NCHS</h2>
+<p>The <a href="https://www.cdc.gov/nchs/">National Center for Health Statistics</a> (NCHS), part of the <a href="https://www.cdc.gov/">US Center for Disease Control and Prevention</a> (CDC), is the principal US health statistics agency, providing data to identify and address health issues.  It provides the mortality data used by <a href="#NCI_SEER">NCI SEER</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='NCI_SEER'></a>
+<p><h2>NCI SEER</h2>
+<p>The <a href="https://seer.cancer.gov/">Surveillance, Epidemiology, and End Results</a> (SEER) Program of the <a href="https://www.cancer.gov/">National Cancer Institute</a> (NCI) &quot;works to provide information on cancer statistics in an effort to reduce the burden of cancer among the US population.&quot;  TOXMAP health data comes from the SEER*Stat database.  Underlying mortality data is provided to SEER by the <a href="#NCHS">NCHS</a></p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='NPL'></a>
+<p><h2>NPL (National Priorities List)</h2>
+<p>The <a href="https://www.epa.gov/superfund/superfund-national-priorities-list-npl">National Priorities List</a> (NPL) contains the most serious uncontrolled or abandoned hazardous waste sites throughout the United States and its territories.<br><br>
+The EPA designates several NPL statuses for Superfund sites: Proposed, Final, Deleted, Withdrawn, and Removed. Other Superfund sites are not on the NPL.  TOXMAP contains data only on sites designated as Final (currently on the final NPL), Proposed (proposed for the NPL), and Deleted (deleted from the final NPL).  These three statuses are collectively referred to by the EPA as the "NPL Dataset".</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='NPRI'></a>
+<p><h2>NPRI</h2>
+<p>The <a href="https://www.canada.ca/en/services/environment/pollution-waste-management/national-pollutant-release-inventory.html">National Pollutant Release Inventory</a> (NPRI) is Canada's legislated, publicly accessible inventory of pollutant releases (to air, water and land), disposals and transfers for recycling.
+See the <a href="https://www.canada.ca/en/services/environment/pollution-waste-management/national-pollutant-release-inventory.html">NPRI web site</a> for more information.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Nuclear_power_plants'></a>
+<p><h2>Nuclear power plants</h2>
+<p>Nuclear power plants contain one or more power reactors that rely on nuclear reactions to generate electricity.  TOXMAP shows commercial nuclear power plants from data obtained from the US <a href="https://www.nrc.gov/">Nuclear Regulatory Commission</a> (NRC).</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='On-site_release'></a>
+<p><h2>On-site release</h2>
+<p>In <a href="#TRI">TRI</a>, a toxic chemical release that is located on the generating site (such as via a smokestack).  This is in contrast to off-site releases (e.g., transfer to a location other than the generating site) that are reported to the TRI program but not included in TOXMAP.  To view off-site release data, see <a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?TRI">TOXNET/TRI</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Reference_data'></a>
+<p><h2>Reference data</h2>
+<p>Data drawn on a map that helps to identify the position of physical features in relation to other information.  For example, cities, roads, and state boundaries.  In TOXMAP, you can change map reference data via the <a href="#Basemap">Basemap</a> Gallery <img src='/toxmap/images/help/basemap.png' height='25' alt='Basemap icon from the TOXMAP toolbar'/> on the Toolbar.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Release_medium'></a>
+<p><h2>Release medium</h2>
+<p>Means by which a substance is released into, or enters, the environment (e.g. air, land, water, underground injection).  TOXMAP shows only <a href="#On-site_release">on-site releases</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Response'></a>
+<p><h2>Response</h2>
+<p>In toxicology, the effect-- if any-- that a chemical has on a living organism.  The response is related to the chemical <a href="#Dose">dose</a> and to the resulting concentration of the chemical in the organism.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Risk'></a>
+<p><h2>Risk</h2>
+<p>The probability that a hazard or effect will occur at a specific level of exposure to a substance.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Risk_assessment'></a>
+<p><h2>Risk assessment</h2>
+<p>How scientists determine the likelihood that a harmful effect will happen at a specific level of exposure to a substance.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='SARA'></a>
+<p><h2>SARA</h2>
+<p>The <a href="https://www.epa.gov/superfund/superfund-amendments-and-reauthorization-act-sara">Superfund Amendments and Reauthorization Act</a> (SARA) amended the <a href="#CERCLA">CERCLA</a>, also know as <a href="#Superfund">Superfund</a>, on October 17, 1986. SARA reflected <a href="#EPA">EPA's</a> experience in administering the complex Superfund program during its first six years and made several important changes and additions to the program.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Search'></a>
+<p><h2>Search</h2>
+<p>In TOXMAP, users can search <a href="#TRI">TRI</a> and <a href="#Superfund">Superfund</a> data with the blue (TRI) <img src='/toxmap/images/help/tri-search.png' height='25' alt='TRI search icon from TOXMAP'/> and red (Superfund) <img src='/toxmap/images/help/sf-search.png' height='25' alt='Superfund search icon from TOXMAP'/> Search icons.  Result Sets are displayed graphically on the map, in an ordered list in the Result Sets tab, and can be viewed in the Attribute Table <img src='/toxmap/images/help/attr-table.png' height='25' alt='Picture of button that opens the attribute table in TOXMAP'/>.  Result Sets can be hidden via the Table of Contents or removed via the Result Sets tab.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='SIS'></a>
+<p><h2>SIS</h2>
+<p>The <a href="https://sis.nlm.nih.gov/">Specialized Information Services</a> (SIS) Division of the <a href="https://www.nlm.nih.gov">National Library of Medicine</a> (NLM) creates information resources and services in toxicology, environmental health, chemistry, HIV/AIDS, and specialized topics in minority health.  SIS produces databases such as <a href="#TOXNET">TOXNET</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Spatial_data'></a>
+<p><h2>Spatial data</h2>
+<p>Information about the location and shape of, and relationships among, geographic features. This includes remotely sensed data as well as map data.  It is usually stored as <a href="#Coordinates">coordinates</a> and <a href="#Topology">topology</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Superfund'></a>
+<p><h2>Superfund </h2>
+<p><a href="https://www.epa.gov/superfund/">Superfund</a> is the Federal government's program to clean up the nation's uncontrolled hazardous waste sites.  It is operated under the legislative authority of <a href="#CERCLA">CERCLA</a> and <a href="#SARA">SARA</a> that funds and carries out EPA solid waste emergency and long-term removal and remedial activities.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='TEHIP'></a>
+<p><h2>TEHIP</h2>
+<p>The <a href="https://sis.nlm.nih.gov/enviro.html">Toxicology and Environmental Health Information Program</a> (TEHIP) of the <a href="https://www.nlm.nih.gov">National Library of Medicine</a> (NLM) creates, organizes, and disseminates toxicology and environmental health information.<br><br>
+See the <a href="https://sis.nlm.nih.gov/enviro/tehipfs.html">TEHIP Fact Sheet</a> for more information.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Topography'></a>
+<p><h2>Topography</h2>
+<p>Graphic representation of the surface features of a place or region on a map, indicating their relative positions and elevations.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Topology'></a>
+<p><h2>Topology</h2>
+<p>The relative location of geographic phenomena independent of their exact position.  In digital data, topological relationships such as connectivity, adjacency and relative position are usually expressed as relationships between nodes, links and polygons.  Topology is useful in <a href="#GIS">GIS</a> because many spatial modeling operations require topological information rather than co-ordinates.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Toxicity'></a>
+<p><h2>Toxicity</h2>
+<p>The degree to which a chemical substance (or physical agent) elicits an adverse effect on the biological system of an organism exposed to the substance over a designated time period.  <a href="#Acute_toxicity">Acute toxicity</a> stems from a single <a href="#Dose">dose</a> or single exposure, while <a href="#Chronic_toxicity">chronic toxicity</a> results from long-continued or numerous brief exposures.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='Toxicology'></a>
+<p><h2>Toxicology</h2>
+<p>The study of the adverse effects of chemical or physical agents on living organisms and biological systems.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='TOXLINE'></a>
+<p><h2>TOXLINE®</h2>
+<p><a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?TOXLINE">TOXLINE</a> is the <a href="https://www.nlm.nih.gov/">NLM</a>'s bibliographic database for toxicology. It provides access to extensive references to the literature on biochemical, pharmacological, physiological, and toxicological effects of drugs and other chemicals. TOXLINE references are drawn from a variety of sources.<br><br>
+See the <a href="https://toxnet.nlm.nih.gov/help/newtoxnet/toxlinfs.html">TOXLINE Fact Sheet</a> for more information.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='TOXMAP'></a>
+<p><h2>TOXMAP®</h2>
+<p>TOXMAP is a web site from the <a href="https://www.nlm.nih.gov/">National Library of Medicine</a> (NLM) that uses maps of the United States and Canada to help you explore hazardous waste sites, <a href="#On-site_release">on-site releases</a> of certain toxic chemicals, and other environmental and demographic data.  TOXMAP does <a href="/toxmap/faq/2009/08/does-toxmap-show-all-sources-of-toxic-chemicals-released-into-or-present-in-the-environment.html">NOT show all sources of toxic chemicals</a> in the environment.<br><br>
+See also <a href="/toxmap/faq/2009/08/what-is-toxmap.html">"What is TOXMAP?"</a> and the <a href="/toxmap/help/toxmapfs.html">TOXMAP Fact Sheet</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='TOXNET'></a>
+<p><h2>TOXNET®</h2>
+<p><a href="https://toxnet.nlm.nih.gov/">TOXNET</a> (TOXicology Data NETwork) is a group of databases covering toxicology, hazardous chemicals, environmental health and related areas.  <br><br>
+See also the <a href="https://toxnet.nlm.nih.gov/newtoxnet/faq.html">TOXNET FAQ</a> and the <a href="https://toxnet.nlm.nih.gov/help/newtoxnet/toxnetfs.html">TOXNET Fact Sheet</a>.</p>
+<br/><a href='#top'>top</a>
+<center><img src='/toxmap/images/orangehr.gif' width='450' height='5' alt='' /></center><br/>
+<a name='TRI'></a>
+<p><h2>TRI</h2>
+<p>The <a href="https://www.epa.gov/toxics-release-inventory-tri-program">Toxics Release Inventory</a> (TRI) is a publicly available <a href="#EPA">EPA</a> database that contains information on toxic chemical releases and other waste management activities reported annually by certain covered industry groups as well as federal facilities.<br><br>
+See also <a href="https://www.epa.gov/toxics-release-inventory-tri-program/learn-about-toxics-release-inventory">"Learn about the Toxics Release Inventory"</a> for more information.</p>
+<br/><a href='#top'>top</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>This space intentionally left blank.</center> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- End Content -->
+
+            </div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Accessibility | TOXMAP</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Aquilent, Inc. for the US National Library of Medicine"/>
+    <meta name="keywords" content="map, environmental map, TRI, Toxics Release Inventory, Superfund, NPL, National Priorities List, environmental justice, toxicology, toxins, chemical"/>
+    <meta name="description" content="TOXMAP maps data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund National Priorities List (NPL).  It is produced by the Division of Specialized Information Services of the US National Library of Medicine (NLM)."/>
+	<link rel="stylesheet" type="text/css" media="screen" href="css/bookmark.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="css/toxmap.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="css/print.css" />
+	<link rel="shortcut icon" href="images/ico/favicon.ico" type="image/x-icon" />
+	<!--[if IE]>
+    	<script src="js/html5shiv.js"></script>
+        <script src="js/html5shiv-print.js"></script>
+    <![endif]-->
+	<script src="js/jquery.js"></script>
+    <script>
+    $(function(){
+      $("#headerInclude").load("/toxmap/header.html");
+    });
+	$(function(){
+      $("#alertInclude").load("/toxmap/alert.html");
+    });
+    $(function(){
+      $("#footerInclude").load("/toxmap/footer.html");
+    });
+    </script>
+	<!-- Universal Analytics -->
+	<script src="js/analytics.js" type="text/javascript"></script>
+	<!-- DAP -->
+	<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=NIH&sp=query&enhlink=true"></script>
+</head>
+<body>
+	<div id="skip"><a href="accessibility.html#skip">Skip to Main Content</a></div>
+	<div id="headerInclude"></div>
+	<div id="main-wrap">
+    	<a name="skip"></a>
+        <div id="standard-page" class="x subpage">
+			<div id="alertInclude"></div>
+            <div id="content" class="x">
+			<h1>TOXMAP Accessibility</h1>
+			<p><a target="ext" href="https://www.section508.gov/">Section 508</a> of the Rehabilitation Act requires that members of the public with disabilities and Federal Government employees with disabilities have access to and use of information and data comparable to individuals who do not have disabilities.</p><br>
+			<p>If a disability is preventing you from using TOXMAP in its current form, please <a href="faq/2009/08/whom-can-i-contact-with-questions-andor-suggestions.html">contact us</a> and we will provide assistance directly.  Alternatively, consider using the text-only resources listed below that provide much of the same information.</p><br/>
+			<p>For more information, refer to the <a target="ext" href="https://www.nlm.nih.gov/accessibility.html">National Library of Medicine's Accessibility Information</a> page.</p><br>
+			<p>TOXMAP's data are also available in text-only format from a variety of sources:</p>
+			<ul class="points">
+			<li><a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?TRI">TOXNET®/TRI</a> (National Library of Medicine);</li>
+			<li><a href="https://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB">HSDB®</a> (National Library of Medicine);</li>
+			<li><a target="ext" href="https://iaspub.epa.gov/triexplorer/tri_release.chemical">TRI Explorer</a> (U.S. EPA);</li>
+			<li><a target="ext" href="https://www.census.gov/quickfacts/">USA Quick Facts</a> (U.S. Census Bureau); and</li>
+			<li>The <a target="ext" href="https://www.atsdr.cdc.gov/">Agency for Toxic Substances and Disease Registry</a>.</li>
+			</ul>
+			</div>
+        </div>
+    </div>
+	<div id="footerInclude"></div>
+</body>
+</html>
